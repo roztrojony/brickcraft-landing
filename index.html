@@ -8,11 +8,8 @@
         :root {
             --dark-slate: #0f172a;
             --cyan: #38bdf8;
-            --charcoal: #334155;
             --off-white: #f8fafc;
-            --navy: #1e293b;
-            --dark: #000000;
-            --accent: #00ffcc;
+            --cyan-glow: rgba(56, 189, 248, 0.5);
         }
 
         body {
@@ -21,217 +18,46 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             background-color: var(--dark-slate);
             color: var(--off-white);
-            overflow-x: hidden;
-        }
-
-        /* Hero Section */
-        .hero {
             height: 100vh;
             display: flex;
-            flex-direction: column;
             justify-content: center;
             align-items: center;
-            text-align: center;
-            background: radial-gradient(circle at center, #1e293b 0%, #0f172a 100%);
-            position: relative;
+            overflow: hidden;
         }
 
-        .hero h1 {
+        .container {
+            text-align: center;
+            padding: 2rem;
+            max-width: 800px;
+        }
+
+        h1 {
             font-size: 4rem;
             margin-bottom: 1rem;
             color: var(--cyan);
-            text-shadow: 0 0 20px rgba(56, 189, 248, 0.5);
+            text-shadow: 0 0 20px var(--cyan-glow);
         }
 
-        .hero p {
+        p {
             font-size: 1.5rem;
+            margin-bottom: 2rem;
             color: var(--off-white);
         }
 
-        /* Manifesto Section */
-        .manifesto {
-            padding: 5rem 2rem;
-            background: url('https://www.transparenttextures.com/patterns/dark-wood.png'), var(--charcoal);
-            text-align: center;
-        }
-
-        .manifesto h2 {
-            font-size: 2.5rem;
-            margin-bottom: 2rem;
-            color: var(--cyan);
-        }
-
-        .manifesto p {
-            max-width: 800px;
-            margin: 0 auto;
-            font-size: 1.2rem;
-            line-height: 1.8;
-            color: var(--off-white);
-        }
-
-        /* Grid Section */
-        .grid {
-            padding: 5rem 2rem;
-            background-color: var(--navy);
-            text-align: center;
-        }
-
-        .grid h2 {
-            font-size: 2.5rem;
-            margin-bottom: 3rem;
-            color: var(--cyan);
-        }
-
-        .cards-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 2rem;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .card {
-            background-color: var(--charcoal);
-            padding: 2rem;
-            border-radius: 8px;
-            border: 1px solid rgba(56, 189, 248, 0.2);
-            transition: transform 0.3s ease;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            border-color: var(--cyan);
-        }
-
-        .card h3 {
-            color: var(--cyan);
-            margin-bottom: 1rem;
-        }
-
-        .card p {
-            font-size: 1rem;
-            color: #94a3b8;
-        }
-
-        /* Feature Focus */
-        .feature-focus {
-            padding: 5rem 2rem;
-            background: linear-gradient(135deg, var(--accent) 0%, var(--dark-slate) 100%);
-            text-align: center;
-            color: var(--dark-slate);
-        }
-
-        .feature-focus h2 {
-            font-size: 3rem;
-            margin-bottom: 2rem;
-            text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-        }
-
-        .feature-focus p {
-            max-width: 800px;
-            margin: 0 auto;
-            font-size: 1.3rem;
-            line-height: 1.8;
-            font-weight: 500;
-        }
-
-        /* CTA Section */
-        .cta {
-            padding: 5rem 2rem;
-            background-color: var(--dark-slate);
-            text-align: center;
-            border-top: 2px solid var(--cyan);
-        }
-
-        .cta h2 {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-            color: var(--cyan);
-        }
-
-        .cta p {
+        .cta-text {
             font-size: 1.2rem;
             color: #94a3b8;
-            margin-bottom: 3rem;
-        }
-
-        .cta form {
-            max-width: 500px;
-            margin: 0 auto;
-            display: flex;
-            gap: 1rem;
-        }
-
-        .cta input {
-            flex: 1;
-            padding: 1rem;
-            border-radius: 4px;
-            border: none;
-            background-color: var(--navy);
-            color: var(--off-white);
-            font-size: 1rem;
-        }
-
-        .cta button {
-            padding: 1rem 2rem;
-            border-radius: 4px;
-            border: none;
-            background-color: var(--cyan);
-            color: var(--dark-slate);
-            font-size: 1rem;
-            font-weight: bold;
-            cursor: pointer;
-            transition: background 0.3s ease;
-        }
-
-        .cta button:hover {
-            background-color: #0ea5e9;
+            font-style: italic;
         }
     </style>
 </head>
 <body>
 
-    <section class="hero">
+    <div class="container">
         <h1>BrickCraft: Beyond the Bricks</h1>
         <p>Gdzie inżynieria spotyka sztukę tworzenia. Rozbudź swoją kreatywność.</p>
-    </section>
-
-    <section class="manifesto">
-        <h2>Architektura Nieszablonowego Myślenia</h2>
-        <p>Zanurz się w świecie, w którym klocki nie znają ograniczeń. Łącząc zaawansowane modelowanie, pasję do craftingu i nieszablonowe podejście, tworzymy potężne rozwiązania z prostych elementów. Odkryj innowacyjne moduły: od AI wspierającego detekcję, po zaawansowane algorytmy mapowania przestrzeni.</p>
-    </section>
-
-    <section class="grid">
-        <h2>Eksploracja Formy i Funkcji</h2>
-        <div class="cards-container">
-            <div class="card">
-                <h3>Buildcraft</h3>
-                <p>Twoja strefa konstruktora. Precyzyjne modelowanie i łączenie systemów IoT z klockami.</p>
-            </div>
-            <div class="card">
-                <h3>Bushcraft Cyfrowy</h3>
-                <p>Sztuka przetrwania na rynku IT – adaptacja i wykorzystanie komponentów USB OTG i mikrokontrolerów.</p>
-            </div>
-            <div class="card">
-                <h3>Modeling</h3>
-                <p>Wizualizacja układów i przestrzeni za pomocą sztucznej inteligencji i zaawansowanego przetwarzania obrazu.</p>
-            </div>
-        </div>
-    </section>
-
-    <section class="feature-focus">
-        <h2>Strefa Zakazanych Technik: The Forbidden Art</h2>
-        <p>Poznaj techniki, które łamią reguły. Wykorzystujemy niekonwencjonalne metody łączenia elementów i sygnałów Channel State Information (CSI), aby osiągnąć niemożliwe. To tutaj kończy się standardowa instrukcja, a zaczyna prawdziwa inżynieria kombinatorska.</p>
-    </section>
-
-    <section class="cta">
-        <h2>Dołącz do Elitarnej Grupy Twórców</h2>
-        <p>Budujemy potęgę cyfrowo. Zapisz się na listę oczekujących, aby otrzymać wczesny dostęp do platformy.</p>
-        <form>
-            <input type="email" placeholder="Podaj swój adres e-mail" required>
-            <button type="submit">Zyskaj Dostęp</button>
-        </form>
-    </section>
+        <p class="cta-text">Czekaj na dalsze informacje. We are building for you.</p>
+    </div>
 
 </body>
 </html>
