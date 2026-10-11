@@ -15,57 +15,102 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
-            font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #111;
         }
 
-        .hero-background {
+        .hero-container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            /* Tło zajmuje cały ekran i zawsze ładnie wygląda */
             background-image: url('napisbrick.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100vw;
-            height: 100vh;
+            
             display: flex;
             flex-direction: column;
-            justify-content: flex-end;
+            justify-content: space-between;
             align-items: center;
-            padding: 20px;
-        }
-
-        .footer-text {
-            color: #ffffff;
-            background-color: rgba(0, 0, 0, 0.75);
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-size: 1.2rem;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-            font-weight: bold;
+            padding: 40px 20px;
             text-align: center;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-            max-width: 90%;
         }
 
-        /* Reguły dla urządzeń mobilnych (ekrany o szerokości do 768px) */
+        /* Lekkie przyciemnienie tła, by tekst był czytelny */
+        .hero-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.45);
+            z-index: 1;
+        }
+
+        .content-top, .content-bottom {
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Tytuł BrickCraft */
+        .brand-title {
+            color: #ffffff;
+            font-size: 4rem;
+            font-weight: 900;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            text-shadow: 0 4px 15px rgba(0, 0, 0, 0.8), 0 0 20px rgba(255, 255, 255, 0.2);
+            margin-top: 20px;
+        }
+
+        /* Napis na dole */
+        .footer-text {
+            color: #f1f1f1;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(5px);
+            padding: 15px 30px;
+            border-radius: 12px;
+            font-size: 1.2rem;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            font-weight: 600;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            max-width: 90%;
+            line-height: 1.5;
+        }
+
+        /* Dopasowanie do telefonów */
         @media (max-width: 768px) {
-            .hero-background {
-                /* Na telefonach pokaże cały obrazek na szerokość bez zniekształceń */
-                background-size: contain; 
+            .hero-container {
+                padding: 30px 15px;
+            }
+
+            .brand-title {
+                font-size: 2.3rem; /* Zmniejszony nagłówek na telefon */
+                letter-spacing: 1.5px;
             }
 
             .footer-text {
-                font-size: 0.95rem; /* Dopasowany rozmiarem czytelny napis na małe ekrany */
-                padding: 10px 16px;
-                margin-bottom: 10px;
+                font-size: 0.95rem; /* Czytelny, elastyczny tekst na mały ekran */
+                padding: 12px 20px;
+                letter-spacing: 1px;
             }
         }
     </style>
 </head>
 <body>
 
-    <div class="hero-background">
-        <div class="footer-text">beyond the bricks we are building for you. be patient</div>
+    <div class="hero-container">
+        <div class="content-top">
+            <h1 class="brand-title">BrickCraft</h1>
+        </div>
+        
+        <div class="content-bottom">
+            <div class="footer-text">beyond the bricks we are building for you. be patient</div>
+        </div>
     </div>
 
 </body>
