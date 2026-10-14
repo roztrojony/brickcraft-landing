@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "sources": [
+    { "id": "brickset",          "type": "brickset",          "priority": 1, "enabled": true },
+    { "id": "rebrickable",       "type": "rebrickable",       "priority": 2, "enabled": true },
+    { "id": "openproductsfacts", "type": "openproductsfacts", "priority": 3, "enabled": true },
+    { "id": "upcitemdb",         "type": "upcitemdb",         "priority": 4, "enabled": true },
+    { "id": "barcodelookup",     "type": "barcodelookup",     "priority": 5, "enabled": true }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "sources": [
+    { "id": "main", "url": "https://raw.githubusercontent.com/twoj_login/twoje_repo/main/catalog.json", "priority": 1, "enabled": true }
+  ]
+}
