@@ -1,5 +1,7331 @@
 {
-  "version": 1,
-  "figures": [],
-  "codes": []
+ "version": 3,
+ "_info": "Wszystkie serie Collectible Minifigures (dane: Rebrickable, rebrickable.com, CC). Kody DataMatrix z pudelek (7 pierwszych cyfr): S25 Brick Fanatics/FourBricksTall, S26 Jay's Brick Blog.",
+ "figures": [
+  {
+   "id": "cmf8683-01",
+   "name": "Tribal Hunter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-1.jpg",
+   "set": "8683-1",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-02",
+   "name": "Cheerleader",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-2.jpg",
+   "set": "8683-2",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-03",
+   "name": "Caveman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-3.jpg",
+   "set": "8683-3",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-04",
+   "name": "Circus Clown",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-4.jpg",
+   "set": "8683-4",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-05",
+   "name": "Zombie",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-5.jpg",
+   "set": "8683-5",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-06",
+   "name": "Skater",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-6.jpg",
+   "set": "8683-6",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-07",
+   "name": "Robot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-7.jpg",
+   "set": "8683-7",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-08",
+   "name": "Demolition Dummy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-8.jpg",
+   "set": "8683-8",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-09",
+   "name": "Magician",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-9.jpg",
+   "set": "8683-9",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-10",
+   "name": "Super Wrestler",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-10.jpg",
+   "set": "8683-10",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-11",
+   "name": "Nurse",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-11.jpg",
+   "set": "8683-11",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-12",
+   "name": "Ninja",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-12.jpg",
+   "set": "8683-12",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-13",
+   "name": "Spaceman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-13.jpg",
+   "set": "8683-13",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-14",
+   "name": "Forestman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-14.jpg",
+   "set": "8683-14",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-15",
+   "name": "Deep Sea Diver",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-15.jpg",
+   "set": "8683-15",
+   "year": 2010
+  },
+  {
+   "id": "cmf8683-16",
+   "name": "Cowboy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 1 (8683)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8683-16.jpg",
+   "set": "8683-16",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-01",
+   "name": "Mariachi / Maraca Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-1.jpg",
+   "set": "8684-1",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-02",
+   "name": "Spartan Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-2.jpg",
+   "set": "8684-2",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-03",
+   "name": "Circus Ringmaster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-3.jpg",
+   "set": "8684-3",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-04",
+   "name": "Witch",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-4.jpg",
+   "set": "8684-4",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-05",
+   "name": "Vampire",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-5.jpg",
+   "set": "8684-5",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-06",
+   "name": "Traffic Cop",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-6.jpg",
+   "set": "8684-6",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-07",
+   "name": "Explorer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-7.jpg",
+   "set": "8684-7",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-08",
+   "name": "Lifeguard",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-8.jpg",
+   "set": "8684-8",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-09",
+   "name": "Mime",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-9.jpg",
+   "set": "8684-9",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-10",
+   "name": "Weightlifter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-10.jpg",
+   "set": "8684-10",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-11",
+   "name": "Pop Star",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-11.jpg",
+   "set": "8684-11",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-12",
+   "name": "Skier",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-12.jpg",
+   "set": "8684-12",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-13",
+   "name": "Disco Dude",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-13.jpg",
+   "set": "8684-13",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-14",
+   "name": "Karate Master",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-14.jpg",
+   "set": "8684-14",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-15",
+   "name": "Surfer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-15.jpg",
+   "set": "8684-15",
+   "year": 2010
+  },
+  {
+   "id": "cmf8684-16",
+   "name": "Pharaoh",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 2 (8684)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8684-16.jpg",
+   "set": "8684-16",
+   "year": 2010
+  },
+  {
+   "id": "cmf8803-01",
+   "name": "Fisherman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-1.jpg",
+   "set": "8803-1",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-02",
+   "name": "Pilot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-2.jpg",
+   "set": "8803-2",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-03",
+   "name": "Tribal Chief",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-3.jpg",
+   "set": "8803-3",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-04",
+   "name": "Samurai Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-4.jpg",
+   "set": "8803-4",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-05",
+   "name": "Snowboarder",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-5.jpg",
+   "set": "8803-5",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-06",
+   "name": "Space Villain",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-6.jpg",
+   "set": "8803-6",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-07",
+   "name": "Sumo Wrestler",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-7.jpg",
+   "set": "8803-7",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-08",
+   "name": "Mummy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-8.jpg",
+   "set": "8803-8",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-09",
+   "name": "Elf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-9.jpg",
+   "set": "8803-9",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-10",
+   "name": "Tennis Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-10.jpg",
+   "set": "8803-10",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-11",
+   "name": "Race Car Driver",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-11.jpg",
+   "set": "8803-11",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-12",
+   "name": "Gorilla Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-12.jpg",
+   "set": "8803-12",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-13",
+   "name": "Space Alien",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-13.jpg",
+   "set": "8803-13",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-14",
+   "name": "Hula Dancer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-14.jpg",
+   "set": "8803-14",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-15",
+   "name": "Rapper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-15.jpg",
+   "set": "8803-15",
+   "year": 2011
+  },
+  {
+   "id": "cmf8803-16",
+   "name": "Baseball Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 3 (8803)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8803-16.jpg",
+   "set": "8803-16",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-01",
+   "name": "Lawn Gnome",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-1.jpg",
+   "set": "8804-1",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-02",
+   "name": "Kimono Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-2.jpg",
+   "set": "8804-2",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-03",
+   "name": "Musketeer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-3.jpg",
+   "set": "8804-3",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-04",
+   "name": "Punk Rocker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-4.jpg",
+   "set": "8804-4",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-05",
+   "name": "Surfer Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-5.jpg",
+   "set": "8804-5",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-06",
+   "name": "Viking",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-6.jpg",
+   "set": "8804-6",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-07",
+   "name": "The Monster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-7.jpg",
+   "set": "8804-7",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-08",
+   "name": "Hockey Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-8.jpg",
+   "set": "8804-8",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-09",
+   "name": "Street Skater",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-9.jpg",
+   "set": "8804-9",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-10",
+   "name": "Sailor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-10.jpg",
+   "set": "8804-10",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-11",
+   "name": "Soccer Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-11.jpg",
+   "set": "8804-11",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-12",
+   "name": "Werewolf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-12.jpg",
+   "set": "8804-12",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-13",
+   "name": "Hazmat Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-13.jpg",
+   "set": "8804-13",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-14",
+   "name": "Artist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-14.jpg",
+   "set": "8804-14",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-15",
+   "name": "Ice Skater",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-15.jpg",
+   "set": "8804-15",
+   "year": 2011
+  },
+  {
+   "id": "cmf8804-16",
+   "name": "Crazy Scientist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 4 (8804)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8804-16.jpg",
+   "set": "8804-16",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-01",
+   "name": "Graduate",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-1.jpg",
+   "set": "8805-1",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-02",
+   "name": "Gladiator",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-2.jpg",
+   "set": "8805-2",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-03",
+   "name": "Royal Guard",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-3.jpg",
+   "set": "8805-3",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-04",
+   "name": "Ice Fisherman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-4.jpg",
+   "set": "8805-4",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-05",
+   "name": "Cave Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-5.jpg",
+   "set": "8805-5",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-06",
+   "name": "Lizard Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-6.jpg",
+   "set": "8805-6",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-07",
+   "name": "Zookeeper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-7.jpg",
+   "set": "8805-7",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-08",
+   "name": "Lumberjack",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-8.jpg",
+   "set": "8805-8",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-09",
+   "name": "Small Clown",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-9.jpg",
+   "set": "8805-9",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-10",
+   "name": "Fitness Instructor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-10.jpg",
+   "set": "8805-10",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-11",
+   "name": "Detective",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-11.jpg",
+   "set": "8805-11",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-12",
+   "name": "Evil Dwarf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-12.jpg",
+   "set": "8805-12",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-13",
+   "name": "Boxer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-13.jpg",
+   "set": "8805-13",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-14",
+   "name": "Egyptian Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-14.jpg",
+   "set": "8805-14",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-15",
+   "name": "Gangster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-15.jpg",
+   "set": "8805-15",
+   "year": 2011
+  },
+  {
+   "id": "cmf8805-16",
+   "name": "Snowboarder Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 5 (8805)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8805-16.jpg",
+   "set": "8805-16",
+   "year": 2011
+  },
+  {
+   "id": "cmf8827-01",
+   "name": "Classic Alien",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-1.jpg",
+   "set": "8827-1",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-02",
+   "name": "Highland Battler",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-2.jpg",
+   "set": "8827-2",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-03",
+   "name": "Sleepyhead",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-3.jpg",
+   "set": "8827-3",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-04",
+   "name": "Lady Liberty",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-4.jpg",
+   "set": "8827-4",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-05",
+   "name": "Bandit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-5.jpg",
+   "set": "8827-5",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-06",
+   "name": "Flamenco Dancer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-6.jpg",
+   "set": "8827-6",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-07",
+   "name": "Clockwork Robot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-7.jpg",
+   "set": "8827-7",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-08",
+   "name": "Minotaur",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-8.jpg",
+   "set": "8827-8",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-09",
+   "name": "Leprechaun",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-9.jpg",
+   "set": "8827-9",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-10",
+   "name": "Roman Soldier",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-10.jpg",
+   "set": "8827-10",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-11",
+   "name": "Surgeon",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-11.jpg",
+   "set": "8827-11",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-12",
+   "name": "Skater Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-12.jpg",
+   "set": "8827-12",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-13",
+   "name": "Intergalactic Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-13.jpg",
+   "set": "8827-13",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-14",
+   "name": "Butcher",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-14.jpg",
+   "set": "8827-14",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-15",
+   "name": "Mechanic",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-15.jpg",
+   "set": "8827-15",
+   "year": 2012
+  },
+  {
+   "id": "cmf8827-16",
+   "name": "Genie",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 6 (8827)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8827-16.jpg",
+   "set": "8827-16",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-01",
+   "name": "Swimming Champion",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-1.jpg",
+   "set": "8831-1",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-02",
+   "name": "Aztec Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-2.jpg",
+   "set": "8831-2",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-03",
+   "name": "Bunny Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-3.jpg",
+   "set": "8831-3",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-04",
+   "name": "Bride",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-4.jpg",
+   "set": "8831-4",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-05",
+   "name": "Ocean King",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-5.jpg",
+   "set": "8831-5",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-06",
+   "name": "Bagpiper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-6.jpg",
+   "set": "8831-6",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-07",
+   "name": "Daredevil",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-7.jpg",
+   "set": "8831-7",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-08",
+   "name": "Galaxy Patrol",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-8.jpg",
+   "set": "8831-8",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-09",
+   "name": "Tennis Ace",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-9.jpg",
+   "set": "8831-9",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-10",
+   "name": "Jungle Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-10.jpg",
+   "set": "8831-10",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-11",
+   "name": "Hippie",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-11.jpg",
+   "set": "8831-11",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-12",
+   "name": "Computer Programmer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-12.jpg",
+   "set": "8831-12",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-13",
+   "name": "Viking Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-13.jpg",
+   "set": "8831-13",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-14",
+   "name": "Evil Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-14.jpg",
+   "set": "8831-14",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-15",
+   "name": "Rocker Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-15.jpg",
+   "set": "8831-15",
+   "year": 2012
+  },
+  {
+   "id": "cmf8831-16",
+   "name": "Grandma Visitor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 7 (8831)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8831-16.jpg",
+   "set": "8831-16",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-01",
+   "name": "Evil Robot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-1.jpg",
+   "set": "8833-1",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-02",
+   "name": "Conquistador",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-2.jpg",
+   "set": "8833-2",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-03",
+   "name": "Lederhosen Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-3.jpg",
+   "set": "8833-3",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-04",
+   "name": "Cowgirl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-4.jpg",
+   "set": "8833-4",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-05",
+   "name": "Football Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-5.jpg",
+   "set": "8833-5",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-06",
+   "name": "Diver",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-6.jpg",
+   "set": "8833-6",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-07",
+   "name": "Downhill Skier",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-7.jpg",
+   "set": "8833-7",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-08",
+   "name": "Businessman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-8.jpg",
+   "set": "8833-8",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-09",
+   "name": "Fairy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-9.jpg",
+   "set": "8833-9",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-10",
+   "name": "Santa",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-10.jpg",
+   "set": "8833-10",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-11",
+   "name": "Vampire Bat",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-11.jpg",
+   "set": "8833-11",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-12",
+   "name": "DJ",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-12.jpg",
+   "set": "8833-12",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-13",
+   "name": "Red Cheerleader",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-13.jpg",
+   "set": "8833-13",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-14",
+   "name": "Actor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-14.jpg",
+   "set": "8833-14",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-15",
+   "name": "Pirate Captain",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-15.jpg",
+   "set": "8833-15",
+   "year": 2012
+  },
+  {
+   "id": "cmf8833-16",
+   "name": "Alien Villainess",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 8 (8833)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8833-16.jpg",
+   "set": "8833-16",
+   "year": 2012
+  },
+  {
+   "id": "cmf71000-01",
+   "name": "Waiter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-1.jpg",
+   "set": "71000-1",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-02",
+   "name": "Cyclops",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-2.jpg",
+   "set": "71000-2",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-03",
+   "name": "Hollywood Starlet",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-3.jpg",
+   "set": "71000-3",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-04",
+   "name": "Heroic Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-4.jpg",
+   "set": "71000-4",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-05",
+   "name": "Roman Emperor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-5.jpg",
+   "set": "71000-5",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-06",
+   "name": "Policeman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-6.jpg",
+   "set": "71000-6",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-07",
+   "name": "Chicken Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-7.jpg",
+   "set": "71000-7",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-08",
+   "name": "Roller Derby Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-8.jpg",
+   "set": "71000-8",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-09",
+   "name": "Fortune Teller",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-9.jpg",
+   "set": "71000-9",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-10",
+   "name": "Judge",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-10.jpg",
+   "set": "71000-10",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-11",
+   "name": "Alien Avenger",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-11.jpg",
+   "set": "71000-11",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-12",
+   "name": "Mermaid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-12.jpg",
+   "set": "71000-12",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-13",
+   "name": "Battle Mech",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-13.jpg",
+   "set": "71000-13",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-14",
+   "name": "Mr. Good and Evil",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-14.jpg",
+   "set": "71000-14",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-15",
+   "name": "Forest Maiden",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-15.jpg",
+   "set": "71000-15",
+   "year": 2013
+  },
+  {
+   "id": "cmf71000-16",
+   "name": "Plumber",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 9 (71000)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71000-16.jpg",
+   "set": "71000-16",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-01",
+   "name": "Librarian",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-1.jpg",
+   "set": "71001-1",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-02",
+   "name": "Medusa",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-2.jpg",
+   "set": "71001-2",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-03",
+   "name": "Roman Commander",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-3.jpg",
+   "set": "71001-3",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-04",
+   "name": "Warrior Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-4.jpg",
+   "set": "71001-4",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-05",
+   "name": "Tomahawk Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-5.jpg",
+   "set": "71001-5",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-06",
+   "name": "Skydiver",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-6.jpg",
+   "set": "71001-6",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-07",
+   "name": "Bumblebee Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-7.jpg",
+   "set": "71001-7",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-08",
+   "name": "Grandpa",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-8.jpg",
+   "set": "71001-8",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-09",
+   "name": "Paintball Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-9.jpg",
+   "set": "71001-9",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-10",
+   "name": "Sea Captain",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-10.jpg",
+   "set": "71001-10",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-11",
+   "name": "Sad Clown",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-11.jpg",
+   "set": "71001-11",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-12",
+   "name": "Revolutionary Soldier",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-12.jpg",
+   "set": "71001-12",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-13",
+   "name": "Baseball Fielder",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-13.jpg",
+   "set": "71001-13",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-14",
+   "name": "Trendsetter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-14.jpg",
+   "set": "71001-14",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-15",
+   "name": "Decorator",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-15.jpg",
+   "set": "71001-15",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-16",
+   "name": "Motorcycle Mechanic",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-16.jpg",
+   "set": "71001-16",
+   "year": 2013
+  },
+  {
+   "id": "cmf71001-19",
+   "name": "Mr. Gold",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 10 (71001)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71001-19.jpg",
+   "set": "71001-19",
+   "year": 2013
+  },
+  {
+   "id": "cmf8909-01",
+   "name": "Brawny Boxer",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-1.jpg",
+   "set": "8909-1",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-02",
+   "name": "Stealth Swimmer",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-2.jpg",
+   "set": "8909-2",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-03",
+   "name": "Relay Runner",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-3.jpg",
+   "set": "8909-3",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-04",
+   "name": "Judo Fighter",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-4.jpg",
+   "set": "8909-4",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-05",
+   "name": "Tactical Tennis Player",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-5.jpg",
+   "set": "8909-5",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-06",
+   "name": "Flexible Gymnast",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-6.jpg",
+   "set": "8909-6",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-07",
+   "name": "Wondrous Weightlifter",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-7.jpg",
+   "set": "8909-7",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-08",
+   "name": "Horseback Rider",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-8.jpg",
+   "set": "8909-8",
+   "year": 2012
+  },
+  {
+   "id": "cmf8909-09",
+   "name": "Agile Archer",
+   "brand": "LEGO",
+   "series": "Minifigures Team GB (8909)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/8909-9.jpg",
+   "set": "8909-9",
+   "year": 2012
+  },
+  {
+   "id": "cmf71002-01",
+   "name": "Barbarian",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-1.jpg",
+   "set": "71002-1",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-02",
+   "name": "Scarecrow",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-2.jpg",
+   "set": "71002-2",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-03",
+   "name": "Pretzel Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-3.jpg",
+   "set": "71002-3",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-04",
+   "name": "Evil Mech",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-4.jpg",
+   "set": "71002-4",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-05",
+   "name": "Island Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-5.jpg",
+   "set": "71002-5",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-06",
+   "name": "Gingerbread Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-6.jpg",
+   "set": "71002-6",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-07",
+   "name": "Holiday Elf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-7.jpg",
+   "set": "71002-7",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-08",
+   "name": "Yeti",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-8.jpg",
+   "set": "71002-8",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-09",
+   "name": "Mountain Climber",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-9.jpg",
+   "set": "71002-9",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-10",
+   "name": "Welder",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-10.jpg",
+   "set": "71002-10",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-11",
+   "name": "Scientist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-11.jpg",
+   "set": "71002-11",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-12",
+   "name": "Saxophone Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-12.jpg",
+   "set": "71002-12",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-13",
+   "name": "Diner Waitress",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-13.jpg",
+   "set": "71002-13",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-14",
+   "name": "Grandma",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-14.jpg",
+   "set": "71002-14",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-15",
+   "name": "Constable",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-15.jpg",
+   "set": "71002-15",
+   "year": 2013
+  },
+  {
+   "id": "cmf71002-16",
+   "name": "Lady Robot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 11 (71002)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71002-16.jpg",
+   "set": "71002-16",
+   "year": 2013
+  },
+  {
+   "id": "cmf71007-01",
+   "name": "Wizard",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-1.jpg",
+   "set": "71007-1",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-02",
+   "name": "Hun Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-2.jpg",
+   "set": "71007-2",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-03",
+   "name": "Fairytale Princess",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-3.jpg",
+   "set": "71007-3",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-04",
+   "name": "Video Game Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-4.jpg",
+   "set": "71007-4",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-05",
+   "name": "Battle Goddess",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-5.jpg",
+   "set": "71007-5",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-06",
+   "name": "Space Miner",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-6.jpg",
+   "set": "71007-6",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-07",
+   "name": "Lifeguard",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-7.jpg",
+   "set": "71007-7",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-08",
+   "name": "Prospector",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-8.jpg",
+   "set": "71007-8",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-09",
+   "name": "Jester",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-9.jpg",
+   "set": "71007-9",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-10",
+   "name": "Dino Tracker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-10.jpg",
+   "set": "71007-10",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-11",
+   "name": "Pizza Delivery Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-11.jpg",
+   "set": "71007-11",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-12",
+   "name": "Rock Star",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-12.jpg",
+   "set": "71007-12",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-13",
+   "name": "Swashbuckler",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-13.jpg",
+   "set": "71007-13",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-14",
+   "name": "Piggy Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-14.jpg",
+   "set": "71007-14",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-15",
+   "name": "Genie Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-15.jpg",
+   "set": "71007-15",
+   "year": 2014
+  },
+  {
+   "id": "cmf71007-16",
+   "name": "Spooky Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 12 (71007)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71007-16.jpg",
+   "set": "71007-16",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-01",
+   "name": "Calamity Drone",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-1.jpg",
+   "set": "71004-1",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-02",
+   "name": "President Business",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-2.jpg",
+   "set": "71004-2",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-03",
+   "name": "Hard Hat Emmet",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-3.jpg",
+   "set": "71004-3",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-04",
+   "name": "Wild West Wyldstyle",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-4.jpg",
+   "set": "71004-4",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-05",
+   "name": "Abraham Lincoln",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-5.jpg",
+   "set": "71004-5",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-06",
+   "name": "Mrs Scratchen-Post",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-6.jpg",
+   "set": "71004-6",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-07",
+   "name": "Scribble-Face Bad Cop",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-7.jpg",
+   "set": "71004-7",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-08",
+   "name": "William Shakespeare",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-8.jpg",
+   "set": "71004-8",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-09",
+   "name": "Gail the Construction Worker",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-9.jpg",
+   "set": "71004-9",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-10",
+   "name": "Larry the Barista",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-10.jpg",
+   "set": "71004-10",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-11",
+   "name": "Velma Staplebot",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-11.jpg",
+   "set": "71004-11",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-12",
+   "name": "Taco Tuesday Guy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-12.jpg",
+   "set": "71004-12",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-13",
+   "name": "'Where Are My Pants?' Guy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-13.jpg",
+   "set": "71004-13",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-14",
+   "name": "Wiley Fusebot",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-14.jpg",
+   "set": "71004-14",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-15",
+   "name": "Panda Guy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-15.jpg",
+   "set": "71004-15",
+   "year": 2014
+  },
+  {
+   "id": "cmf71004-16",
+   "name": "Marsha Queen of the Mermaids",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie (71004)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71004-16.jpg",
+   "set": "71004-16",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-01",
+   "name": "Homer Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-1.jpg",
+   "set": "71005-1",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-02",
+   "name": "Bart Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-2.jpg",
+   "set": "71005-2",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-03",
+   "name": "Marge Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-3.jpg",
+   "set": "71005-3",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-04",
+   "name": "Lisa Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-4.jpg",
+   "set": "71005-4",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-05",
+   "name": "Maggie Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-5.jpg",
+   "set": "71005-5",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-06",
+   "name": "Grampa Simpson",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-6.jpg",
+   "set": "71005-6",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-07",
+   "name": "Ned Flanders",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-7.jpg",
+   "set": "71005-7",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-08",
+   "name": "Krusty the Clown",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-8.jpg",
+   "set": "71005-8",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-09",
+   "name": "Milhouse Van Houten",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-9.jpg",
+   "set": "71005-9",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-10",
+   "name": "Ralph Wiggum",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-10.jpg",
+   "set": "71005-10",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-11",
+   "name": "Apu Nahasapeemapetilon",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-11.jpg",
+   "set": "71005-11",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-12",
+   "name": "Nelson Muntz",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-12.jpg",
+   "set": "71005-12",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-13",
+   "name": "Itchy",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-13.jpg",
+   "set": "71005-13",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-14",
+   "name": "Scratchy",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-14.jpg",
+   "set": "71005-14",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-15",
+   "name": "Chief Wiggum",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-15.jpg",
+   "set": "71005-15",
+   "year": 2014
+  },
+  {
+   "id": "cmf71005-16",
+   "name": "Mr. Burns",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 1 (71005)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71005-16.jpg",
+   "set": "71005-16",
+   "year": 2014
+  },
+  {
+   "id": "cmf71008-01",
+   "name": "Classic King",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-1.jpg",
+   "set": "71008-1",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-02",
+   "name": "Sheriff",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-2.jpg",
+   "set": "71008-2",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-03",
+   "name": "Unicorn Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-3.jpg",
+   "set": "71008-3",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-04",
+   "name": "Snake Charmer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-4.jpg",
+   "set": "71008-4",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-05",
+   "name": "Goblin",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-5.jpg",
+   "set": "71008-5",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-06",
+   "name": "Paleontologist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-6.jpg",
+   "set": "71008-6",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-07",
+   "name": "Alien Trooper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-7.jpg",
+   "set": "71008-7",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-08",
+   "name": "Egyptian Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-8.jpg",
+   "set": "71008-8",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-09",
+   "name": "Carpenter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-9.jpg",
+   "set": "71008-9",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-10",
+   "name": "Evil Wizard",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-10.jpg",
+   "set": "71008-10",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-11",
+   "name": "Fencer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-11.jpg",
+   "set": "71008-11",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-12",
+   "name": "Samurai",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-12.jpg",
+   "set": "71008-12",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-13",
+   "name": "Disco Diva",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-13.jpg",
+   "set": "71008-13",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-14",
+   "name": "Hot Dog Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-14.jpg",
+   "set": "71008-14",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-15",
+   "name": "Lady Cyclops",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-15.jpg",
+   "set": "71008-15",
+   "year": 2015
+  },
+  {
+   "id": "cmf71008-16",
+   "name": "Galaxy Trooper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 13 (71008)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71008-16.jpg",
+   "set": "71008-16",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-01",
+   "name": "Wolf Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-1.jpg",
+   "set": "71010-1",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-02",
+   "name": "Zombie Pirate",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-2.jpg",
+   "set": "71010-2",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-03",
+   "name": "Monster Scientist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-3.jpg",
+   "set": "71010-3",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-04",
+   "name": "Wacky Witch",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-4.jpg",
+   "set": "71010-4",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-05",
+   "name": "Plant Monster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-5.jpg",
+   "set": "71010-5",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-06",
+   "name": "Fly Monster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-6.jpg",
+   "set": "71010-6",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-07",
+   "name": "Specter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-7.jpg",
+   "set": "71010-7",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-08",
+   "name": "Zombie Cheerleader",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-8.jpg",
+   "set": "71010-8",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-09",
+   "name": "Tiger Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-9.jpg",
+   "set": "71010-9",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-10",
+   "name": "Gargoyle",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-10.jpg",
+   "set": "71010-10",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-11",
+   "name": "Skeleton Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-11.jpg",
+   "set": "71010-11",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-12",
+   "name": "Monster Rocker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-12.jpg",
+   "set": "71010-12",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-13",
+   "name": "Zombie Businessman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-13.jpg",
+   "set": "71010-13",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-14",
+   "name": "Banshee",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-14.jpg",
+   "set": "71010-14",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-15",
+   "name": "Square Foot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-15.jpg",
+   "set": "71010-15",
+   "year": 2015
+  },
+  {
+   "id": "cmf71010-16",
+   "name": "Spider Lady",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 14 (71010)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71010-16.jpg",
+   "set": "71010-16",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-01",
+   "name": "Homer",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-1.jpg",
+   "set": "71009-1",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-02",
+   "name": "Marge",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-2.jpg",
+   "set": "71009-2",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-03",
+   "name": "Lisa",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-3.jpg",
+   "set": "71009-3",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-04",
+   "name": "Maggie",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-4.jpg",
+   "set": "71009-4",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-05",
+   "name": "Bart",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-5.jpg",
+   "set": "71009-5",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-06",
+   "name": "Milhouse",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-6.jpg",
+   "set": "71009-6",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-07",
+   "name": "Comic Book Guy",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-7.jpg",
+   "set": "71009-7",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-08",
+   "name": "Martin",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-8.jpg",
+   "set": "71009-8",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-09",
+   "name": "Professor Frink",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-9.jpg",
+   "set": "71009-9",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-10",
+   "name": "Hans Moleman",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-10.jpg",
+   "set": "71009-10",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-11",
+   "name": "Selma",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-11.jpg",
+   "set": "71009-11",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-12",
+   "name": "Patty",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-12.jpg",
+   "set": "71009-12",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-13",
+   "name": "Groundskeeper Willie",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-13.jpg",
+   "set": "71009-13",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-14",
+   "name": "Edna Krabappel",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-14.jpg",
+   "set": "71009-14",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-15",
+   "name": "Smithers",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-15.jpg",
+   "set": "71009-15",
+   "year": 2015
+  },
+  {
+   "id": "cmf71009-16",
+   "name": "Dr Hibbert",
+   "brand": "LEGO",
+   "series": "Minifigures The Simpsons Series 2 (71009)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71009-16.jpg",
+   "set": "71009-16",
+   "year": 2015
+  },
+  {
+   "id": "cmf71011-01",
+   "name": "Farmer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-1.jpg",
+   "set": "71011-1",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-02",
+   "name": "Astronaut",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-2.jpg",
+   "set": "71011-2",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-03",
+   "name": "Frightening Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-3.jpg",
+   "set": "71011-3",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-04",
+   "name": "Clumsy Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-4.jpg",
+   "set": "71011-4",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-05",
+   "name": "Tribal Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-5.jpg",
+   "set": "71011-5",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-06",
+   "name": "Flying Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-6.jpg",
+   "set": "71011-6",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-07",
+   "name": "Faun",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-7.jpg",
+   "set": "71011-7",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-08",
+   "name": "Animal Control Officer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-8.jpg",
+   "set": "71011-8",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-09",
+   "name": "Janitor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-9.jpg",
+   "set": "71011-9",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-10",
+   "name": "Ballerina",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-10.jpg",
+   "set": "71011-10",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-11",
+   "name": "Laser Mech",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-11.jpg",
+   "set": "71011-11",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-12",
+   "name": "Kendo Fighter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-12.jpg",
+   "set": "71011-12",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-13",
+   "name": "Shark Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-13.jpg",
+   "set": "71011-13",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-14",
+   "name": "Wrestling Champion",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-14.jpg",
+   "set": "71011-14",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-15",
+   "name": "Jewel Thief",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-15.jpg",
+   "set": "71011-15",
+   "year": 2016
+  },
+  {
+   "id": "cmf71011-16",
+   "name": "Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 15 (71011)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71011-16.jpg",
+   "set": "71011-16",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-01",
+   "name": "Stitch",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-1.jpg",
+   "set": "71012-1",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-02",
+   "name": "Alien",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-2.jpg",
+   "set": "71012-2",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-03",
+   "name": "Buzz Lightyear",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-3.jpg",
+   "set": "71012-3",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-04",
+   "name": "Aladdin",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-4.jpg",
+   "set": "71012-4",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-05",
+   "name": "Genie",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-5.jpg",
+   "set": "71012-5",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-06",
+   "name": "Maleficent",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-6.jpg",
+   "set": "71012-6",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-07",
+   "name": "Alice",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-7.jpg",
+   "set": "71012-7",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-08",
+   "name": "Cheshire Cat",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-8.jpg",
+   "set": "71012-8",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-09",
+   "name": "Daisy Duck",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-9.jpg",
+   "set": "71012-9",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-10",
+   "name": "Donald Duck",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-10.jpg",
+   "set": "71012-10",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-11",
+   "name": "Minnie Mouse",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-11.jpg",
+   "set": "71012-11",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-12",
+   "name": "Mickey Mouse",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-12.jpg",
+   "set": "71012-12",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-13",
+   "name": "Mr. Incredible",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-13.jpg",
+   "set": "71012-13",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-14",
+   "name": "Syndrome",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-14.jpg",
+   "set": "71012-14",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-15",
+   "name": "Peter Pan",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-15.jpg",
+   "set": "71012-15",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-16",
+   "name": "Captain Hook",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-16.jpg",
+   "set": "71012-16",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-17",
+   "name": "Ursula",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-17.jpg",
+   "set": "71012-17",
+   "year": 2016
+  },
+  {
+   "id": "cmf71012-18",
+   "name": "Ariel",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 1 (71012)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71012-18.jpg",
+   "set": "71012-18",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-01",
+   "name": "Ice Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-1.jpg",
+   "set": "71013-1",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-02",
+   "name": "Desert Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-2.jpg",
+   "set": "71013-2",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-03",
+   "name": "Cyborg",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-3.jpg",
+   "set": "71013-3",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-04",
+   "name": "Cute Little Devil",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-4.jpg",
+   "set": "71013-4",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-05",
+   "name": "Spooky Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-5.jpg",
+   "set": "71013-5",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-06",
+   "name": "Hiker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-6.jpg",
+   "set": "71013-6",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-07",
+   "name": "Wildlife Photographer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-7.jpg",
+   "set": "71013-7",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-08",
+   "name": "Kickboxer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-8.jpg",
+   "set": "71013-8",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-09",
+   "name": "Scallywag Pirate",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-9.jpg",
+   "set": "71013-9",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-10",
+   "name": "Penguin Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-10.jpg",
+   "set": "71013-10",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-11",
+   "name": "Rogue",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-11.jpg",
+   "set": "71013-11",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-12",
+   "name": "Dog Show Winner",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-12.jpg",
+   "set": "71013-12",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-13",
+   "name": "Mariachi",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-13.jpg",
+   "set": "71013-13",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-14",
+   "name": "Spy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-14.jpg",
+   "set": "71013-14",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-15",
+   "name": "Banana Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-15.jpg",
+   "set": "71013-15",
+   "year": 2016
+  },
+  {
+   "id": "cmf71013-16",
+   "name": "Babysitter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 16 (71013)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71013-16.jpg",
+   "set": "71013-16",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-01",
+   "name": "Joachim Löw",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-1.jpg",
+   "set": "71014-1",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-02",
+   "name": "Manuel Neuer (1)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-2.jpg",
+   "set": "71014-2",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-03",
+   "name": "Jérôme Boateng (17)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-3.jpg",
+   "set": "71014-3",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-04",
+   "name": "Mats Hummels (5)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-4.jpg",
+   "set": "71014-4",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-05",
+   "name": "Benedikt Höwedes (4)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-5.jpg",
+   "set": "71014-5",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-06",
+   "name": "Shkodran Mustafi (2)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-6.jpg",
+   "set": "71014-6",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-07",
+   "name": "Bastian Schweinsteiger (7)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-7.jpg",
+   "set": "71014-7",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-08",
+   "name": "Mesut Özil (8)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-8.jpg",
+   "set": "71014-8",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-09",
+   "name": "Thomas Müller (13)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-9.jpg",
+   "set": "71014-9",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-10",
+   "name": "Toni Kroos (18)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-10.jpg",
+   "set": "71014-10",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-11",
+   "name": "Sami Khedira (6)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-11.jpg",
+   "set": "71014-11",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-12",
+   "name": "André Schürrle (9)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-12.jpg",
+   "set": "71014-12",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-13",
+   "name": "Marco Reus (21)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-13.jpg",
+   "set": "71014-13",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-14",
+   "name": "Christoph Kramer (20)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-14.jpg",
+   "set": "71014-14",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-15",
+   "name": "Mario Götze (19)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-15.jpg",
+   "set": "71014-15",
+   "year": 2016
+  },
+  {
+   "id": "cmf71014-16",
+   "name": "Max Kruse (23)",
+   "brand": "LEGO",
+   "series": "Minifigures DFB Minifigures (71014)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71014-16.jpg",
+   "set": "71014-16",
+   "year": 2016
+  },
+  {
+   "id": "cmf71017-01",
+   "name": "Lobster-Lovin' Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-1.jpg",
+   "set": "71017-1",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-02",
+   "name": "Glam Metal Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-2.jpg",
+   "set": "71017-2",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-03",
+   "name": "Fairy Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-3.jpg",
+   "set": "71017-3",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-04",
+   "name": "Clan of the Cave Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-4.jpg",
+   "set": "71017-4",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-05",
+   "name": "Vacation Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-5.jpg",
+   "set": "71017-5",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-06",
+   "name": "Barbara Gordon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-6.jpg",
+   "set": "71017-6",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-07",
+   "name": "Commissioner Gordon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-7.jpg",
+   "set": "71017-7",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-08",
+   "name": "The Joker – Arkham Asylum",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-8.jpg",
+   "set": "71017-8",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-09",
+   "name": "Dick Grayson",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-9.jpg",
+   "set": "71017-9",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-10",
+   "name": "Pink Power Batgirl",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-10.jpg",
+   "set": "71017-10",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-11",
+   "name": "Red Hood",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-11.jpg",
+   "set": "71017-11",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-12",
+   "name": "The Eraser",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-12.jpg",
+   "set": "71017-12",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-13",
+   "name": "Nurse Harley Quinn",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-13.jpg",
+   "set": "71017-13",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-14",
+   "name": "Orca",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-14.jpg",
+   "set": "71017-14",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-15",
+   "name": "Zodiac Master",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-15.jpg",
+   "set": "71017-15",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-16",
+   "name": "Catman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-16.jpg",
+   "set": "71017-16",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-17",
+   "name": "March Harriet",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-17.jpg",
+   "set": "71017-17",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-18",
+   "name": "The Calculator",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-18.jpg",
+   "set": "71017-18",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-19",
+   "name": "King Tut",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-19.jpg",
+   "set": "71017-19",
+   "year": 2017
+  },
+  {
+   "id": "cmf71017-20",
+   "name": "The Mime",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 1 (71017)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71017-20.jpg",
+   "set": "71017-20",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-01",
+   "name": "Pro Surfer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-1.jpg",
+   "set": "71018-1",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-02",
+   "name": "Circus Strong Man",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-2.jpg",
+   "set": "71018-2",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-03",
+   "name": "Gourmet Chef",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-3.jpg",
+   "set": "71018-3",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-04",
+   "name": "Corn Cob Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-4.jpg",
+   "set": "71018-4",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-05",
+   "name": "Veterinarian",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-5.jpg",
+   "set": "71018-5",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-06",
+   "name": "Hot Dog Vendor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-6.jpg",
+   "set": "71018-6",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-07",
+   "name": "Butterfly Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-7.jpg",
+   "set": "71018-7",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-08",
+   "name": "Roman Gladiator",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-8.jpg",
+   "set": "71018-8",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-09",
+   "name": "Connoisseur",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-9.jpg",
+   "set": "71018-9",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-10",
+   "name": "Battle Dwarf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-10.jpg",
+   "set": "71018-10",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-11",
+   "name": "Retro Space Hero",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-11.jpg",
+   "set": "71018-11",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-12",
+   "name": "Yuppie",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-12.jpg",
+   "set": "71018-12",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-13",
+   "name": "Rocket Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-13.jpg",
+   "set": "71018-13",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-14",
+   "name": "Dance Instructor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-14.jpg",
+   "set": "71018-14",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-15",
+   "name": "Elf Maiden",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-15.jpg",
+   "set": "71018-15",
+   "year": 2017
+  },
+  {
+   "id": "cmf71018-16",
+   "name": "Highwayman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 17 (71018)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71018-16.jpg",
+   "set": "71018-16",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-01",
+   "name": "Kai Kendo",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-1.jpg",
+   "set": "71019-1",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-02",
+   "name": "Spinjitzu Training Nya",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-2.jpg",
+   "set": "71019-2",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-03",
+   "name": "Lloyd",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-3.jpg",
+   "set": "71019-3",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-04",
+   "name": "Master Wu",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-4.jpg",
+   "set": "71019-4",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-05",
+   "name": "Garmadon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-5.jpg",
+   "set": "71019-5",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-06",
+   "name": "Jay Walker",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-6.jpg",
+   "set": "71019-6",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-07",
+   "name": "Lloyd Garmadon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-7.jpg",
+   "set": "71019-7",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-08",
+   "name": "Cole",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-8.jpg",
+   "set": "71019-8",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-09",
+   "name": "Misako",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-9.jpg",
+   "set": "71019-9",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-10",
+   "name": "Zane",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-10.jpg",
+   "set": "71019-10",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-11",
+   "name": "Shark Army General #1",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-11.jpg",
+   "set": "71019-11",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-12",
+   "name": "Shark Army Octopus",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-12.jpg",
+   "set": "71019-12",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-13",
+   "name": "Shark Army Angler",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-13.jpg",
+   "set": "71019-13",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-14",
+   "name": "Shark Army Great White",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-14.jpg",
+   "set": "71019-14",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-15",
+   "name": "Flashback Garmadon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-15.jpg",
+   "set": "71019-15",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-16",
+   "name": "Volcano Garmadon",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-16.jpg",
+   "set": "71019-16",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-17",
+   "name": "Gong & Guitar Rocker",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-17.jpg",
+   "set": "71019-17",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-18",
+   "name": "GPL Tech",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-18.jpg",
+   "set": "71019-18",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-19",
+   "name": "Sushi Chef",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-19.jpg",
+   "set": "71019-19",
+   "year": 2017
+  },
+  {
+   "id": "cmf71019-20",
+   "name": "N-POP Girl",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Ninjago Movie (71019)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71019-20.jpg",
+   "set": "71019-20",
+   "year": 2017
+  },
+  {
+   "id": "cmf71021-01",
+   "name": "Elephant Costume Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-1.jpg",
+   "set": "71021-1",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-02",
+   "name": "Brick Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-2.jpg",
+   "set": "71021-2",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-03",
+   "name": "Brick Suit Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-3.jpg",
+   "set": "71021-3",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-04",
+   "name": "Party Clown",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-4.jpg",
+   "set": "71021-4",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-05",
+   "name": "Firework Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-5.jpg",
+   "set": "71021-5",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-06",
+   "name": "Birthday Party Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-6.jpg",
+   "set": "71021-6",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-07",
+   "name": "Dragon Suit Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-7.jpg",
+   "set": "71021-7",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-08",
+   "name": "Classic Police Officer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-8.jpg",
+   "set": "71021-8",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-09",
+   "name": "Spider Suit Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-9.jpg",
+   "set": "71021-9",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-10",
+   "name": "Cake Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-10.jpg",
+   "set": "71021-10",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-11",
+   "name": "Cactus Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-11.jpg",
+   "set": "71021-11",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-12",
+   "name": "Cat Costume Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-12.jpg",
+   "set": "71021-12",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-13",
+   "name": "Race Car Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-13.jpg",
+   "set": "71021-13",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-14",
+   "name": "Flowerpot Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-14.jpg",
+   "set": "71021-14",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-15",
+   "name": "Cowboy Costume Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-15.jpg",
+   "set": "71021-15",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-16",
+   "name": "Birthday Party Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-16.jpg",
+   "set": "71021-16",
+   "year": 2018
+  },
+  {
+   "id": "cmf71021-17",
+   "name": "Unicorn Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 18 (71021)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71021-17.jpg",
+   "set": "71021-17",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-01",
+   "name": "Harry Potter",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-1.jpg",
+   "set": "71022-1",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-02",
+   "name": "Hermione Granger",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-2.jpg",
+   "set": "71022-2",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-03",
+   "name": "Ron Weasley",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-3.jpg",
+   "set": "71022-3",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-04",
+   "name": "Draco Malfoy (Quidditch)",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-4.jpg",
+   "set": "71022-4",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-05",
+   "name": "Luna Lovegood",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-5.jpg",
+   "set": "71022-5",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-06",
+   "name": "Neville Longbottom",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-6.jpg",
+   "set": "71022-6",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-07",
+   "name": "Cho Chang",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-7.jpg",
+   "set": "71022-7",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-08",
+   "name": "Dean Thomas",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-8.jpg",
+   "set": "71022-8",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-09",
+   "name": "Lord Voldemort",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-9.jpg",
+   "set": "71022-9",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-10",
+   "name": "Dobby",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-10.jpg",
+   "set": "71022-10",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-11",
+   "name": "Sybill Trelawney",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-11.jpg",
+   "set": "71022-11",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-12",
+   "name": "Cedric Diggory",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-12.jpg",
+   "set": "71022-12",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-13",
+   "name": "Filius Flitwick",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-13.jpg",
+   "set": "71022-13",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-14",
+   "name": "Alastor Mad-Eye Moody",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-14.jpg",
+   "set": "71022-14",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-15",
+   "name": "Harry Potter (Invisibility Cloak)",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-15.jpg",
+   "set": "71022-15",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-16",
+   "name": "Albus Dumbledore",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-16.jpg",
+   "set": "71022-16",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-17",
+   "name": "Newt Scamander",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-17.jpg",
+   "set": "71022-17",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-18",
+   "name": "Tina Goldstein",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-18.jpg",
+   "set": "71022-18",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-19",
+   "name": "Jacob Kowalski",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-19.jpg",
+   "set": "71022-19",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-20",
+   "name": "Queenie Goldstein",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-20.jpg",
+   "set": "71022-20",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-21",
+   "name": "Credence Barebone",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-21.jpg",
+   "set": "71022-21",
+   "year": 2018
+  },
+  {
+   "id": "cmf71022-22",
+   "name": "Percival Graves / Gellert Grindelwald",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 1 (71022)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71022-22.jpg",
+   "set": "71022-22",
+   "year": 2018
+  },
+  {
+   "id": "cmf71023-01",
+   "name": "Awesome Remix Emmet",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-1.jpg",
+   "set": "71023-1",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-02",
+   "name": "Battle-Ready Lucy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-2.jpg",
+   "set": "71023-2",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-03",
+   "name": "Apocalypse Benny",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-3.jpg",
+   "set": "71023-3",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-04",
+   "name": "Giraffe Guy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-4.jpg",
+   "set": "71023-4",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-05",
+   "name": "Crayon Girl",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-5.jpg",
+   "set": "71023-5",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-06",
+   "name": "Sherry Scratchen-Post & Scarfield",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-6.jpg",
+   "set": "71023-6",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-07",
+   "name": "Hula Lula",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-7.jpg",
+   "set": "71023-7",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-08",
+   "name": "Watermelon Dude",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-8.jpg",
+   "set": "71023-8",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-09",
+   "name": "Flashback Lucy",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-9.jpg",
+   "set": "71023-9",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-10",
+   "name": "Swamp Creature",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-10.jpg",
+   "set": "71023-10",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-11",
+   "name": "Candy Rapper",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-11.jpg",
+   "set": "71023-11",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-12",
+   "name": "Gone Golfin' President Business",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-12.jpg",
+   "set": "71023-12",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-13",
+   "name": "Apocalypseburg Abe",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-13.jpg",
+   "set": "71023-13",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-14",
+   "name": "Vest Friend Rex",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-14.jpg",
+   "set": "71023-14",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-15",
+   "name": "Kitty Pop",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-15.jpg",
+   "set": "71023-15",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-16",
+   "name": "Dorothy Gale & Toto",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-16.jpg",
+   "set": "71023-16",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-17",
+   "name": "Cowardly Lion",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-17.jpg",
+   "set": "71023-17",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-18",
+   "name": "Scarecrow",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-18.jpg",
+   "set": "71023-18",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-19",
+   "name": "Tin Man",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-19.jpg",
+   "set": "71023-19",
+   "year": 2019
+  },
+  {
+   "id": "cmf71023-20",
+   "name": "Unikitty",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Movie II (71023)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71023-20.jpg",
+   "set": "71023-20",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-01",
+   "name": "Vintage Mickey",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-1.jpg",
+   "set": "71024-1",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-02",
+   "name": "Vintage Minnie",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-2.jpg",
+   "set": "71024-2",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-03",
+   "name": "Huey",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-3.jpg",
+   "set": "71024-3",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-04",
+   "name": "Dewey",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-4.jpg",
+   "set": "71024-4",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-05",
+   "name": "Louie",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-5.jpg",
+   "set": "71024-5",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-06",
+   "name": "Scrooge McDuck",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-6.jpg",
+   "set": "71024-6",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-07",
+   "name": "Chip",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-7.jpg",
+   "set": "71024-7",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-08",
+   "name": "Dale",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-8.jpg",
+   "set": "71024-8",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-09",
+   "name": "Elsa",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-9.jpg",
+   "set": "71024-9",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-10",
+   "name": "Anna",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-10.jpg",
+   "set": "71024-10",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-11",
+   "name": "Jafar",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-11.jpg",
+   "set": "71024-11",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-12",
+   "name": "Jasmine",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-12.jpg",
+   "set": "71024-12",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-13",
+   "name": "Hades",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-13.jpg",
+   "set": "71024-13",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-14",
+   "name": "Hercules",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-14.jpg",
+   "set": "71024-14",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-15",
+   "name": "Sally",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-15.jpg",
+   "set": "71024-15",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-16",
+   "name": "Jack Skellington",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-16.jpg",
+   "set": "71024-16",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-17",
+   "name": "Edna Mode",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-17.jpg",
+   "set": "71024-17",
+   "year": 2019
+  },
+  {
+   "id": "cmf71024-18",
+   "name": "Frozone",
+   "brand": "LEGO",
+   "series": "Minifigures Disney Series 2 (71024)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71024-18.jpg",
+   "set": "71024-18",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-01",
+   "name": "Video Game Champ",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-1.jpg",
+   "set": "71025-1",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-02",
+   "name": "Shower Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-2.jpg",
+   "set": "71025-2",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-03",
+   "name": "Fright Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-3.jpg",
+   "set": "71025-3",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-04",
+   "name": "Monkey King",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-4.jpg",
+   "set": "71025-4",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-05",
+   "name": "Programmer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-5.jpg",
+   "set": "71025-5",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-06",
+   "name": "Mummy Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-6.jpg",
+   "set": "71025-6",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-07",
+   "name": "Jungle Explorer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-7.jpg",
+   "set": "71025-7",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-08",
+   "name": "Fire Fighter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-8.jpg",
+   "set": "71025-8",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-09",
+   "name": "Dog Sitter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-9.jpg",
+   "set": "71025-9",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-10",
+   "name": "Pizza Costume Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-10.jpg",
+   "set": "71025-10",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-11",
+   "name": "Galactic Bounty Hunter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-11.jpg",
+   "set": "71025-11",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-12",
+   "name": "Gardener",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-12.jpg",
+   "set": "71025-12",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-13",
+   "name": "Rugby Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-13.jpg",
+   "set": "71025-13",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-14",
+   "name": "Fox Costume Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-14.jpg",
+   "set": "71025-14",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-15",
+   "name": "Bear Costume Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-15.jpg",
+   "set": "71025-15",
+   "year": 2019
+  },
+  {
+   "id": "cmf71025-16",
+   "name": "Mountain Biker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 19 (71025)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71025-16.jpg",
+   "set": "71025-16",
+   "year": 2019
+  },
+  {
+   "id": "cmf71026-01",
+   "name": "Mister Miracle",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-1.jpg",
+   "set": "71026-1",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-02",
+   "name": "Wonder Woman",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-2.jpg",
+   "set": "71026-2",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-03",
+   "name": "Aquaman",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-3.jpg",
+   "set": "71026-3",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-04",
+   "name": "Stargirl",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-4.jpg",
+   "set": "71026-4",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-05",
+   "name": "Sinestro",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-5.jpg",
+   "set": "71026-5",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-06",
+   "name": "Cheetah",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-6.jpg",
+   "set": "71026-6",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-07",
+   "name": "Superman",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-7.jpg",
+   "set": "71026-7",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-08",
+   "name": "Green Lantern",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-8.jpg",
+   "set": "71026-8",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-09",
+   "name": "Cyborg",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-9.jpg",
+   "set": "71026-9",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-10",
+   "name": "Batman",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-10.jpg",
+   "set": "71026-10",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-11",
+   "name": "Huntress",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-11.jpg",
+   "set": "71026-11",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-12",
+   "name": "Metamorpho",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-12.jpg",
+   "set": "71026-12",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-13",
+   "name": "Joker",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-13.jpg",
+   "set": "71026-13",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-14",
+   "name": "Bumblebee",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-14.jpg",
+   "set": "71026-14",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-15",
+   "name": "The Flash",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-15.jpg",
+   "set": "71026-15",
+   "year": 2020
+  },
+  {
+   "id": "cmf71026-16",
+   "name": "Bat-Mite",
+   "brand": "LEGO",
+   "series": "Minifigures DC Super Heroes (71026)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71026-16.jpg",
+   "set": "71026-16",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-01",
+   "name": "Harry Potter",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-1.jpg",
+   "set": "71028-1",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-02",
+   "name": "Albus Dumbledore",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-2.jpg",
+   "set": "71028-2",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-03",
+   "name": "Hermione Granger",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-3.jpg",
+   "set": "71028-3",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-04",
+   "name": "Ron Weasley",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-4.jpg",
+   "set": "71028-4",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-05",
+   "name": "Luna Lovegood",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-5.jpg",
+   "set": "71028-5",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-06",
+   "name": "Griphook",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-6.jpg",
+   "set": "71028-6",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-07",
+   "name": "Lily Potter",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-7.jpg",
+   "set": "71028-7",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-08",
+   "name": "James Potter",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-8.jpg",
+   "set": "71028-8",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-09",
+   "name": "Ginny Weasley",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-9.jpg",
+   "set": "71028-9",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-10",
+   "name": "Fred Weasley",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-10.jpg",
+   "set": "71028-10",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-11",
+   "name": "George Weasley",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-11.jpg",
+   "set": "71028-11",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-12",
+   "name": "Bellatrix Lestrange",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-12.jpg",
+   "set": "71028-12",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-13",
+   "name": "Kingsley Shacklebolt",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-13.jpg",
+   "set": "71028-13",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-14",
+   "name": "Moaning Myrtle",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-14.jpg",
+   "set": "71028-14",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-15",
+   "name": "Professor Pomona Sprout",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-15.jpg",
+   "set": "71028-15",
+   "year": 2020
+  },
+  {
+   "id": "cmf71028-16",
+   "name": "Neville Longbottom",
+   "brand": "LEGO",
+   "series": "Minifigures Harry Potter and Fantastic Beasts Series 2 (71028)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71028-16.jpg",
+   "set": "71028-16",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-01",
+   "name": "Piñata Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-1.jpg",
+   "set": "71027-1",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-02",
+   "name": "Breakdancer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-2.jpg",
+   "set": "71027-2",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-03",
+   "name": "Peapod Costume Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-3.jpg",
+   "set": "71027-3",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-04",
+   "name": "Tournament Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-4.jpg",
+   "set": "71027-4",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-05",
+   "name": "Pirate Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-5.jpg",
+   "set": "71027-5",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-06",
+   "name": "Space Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-6.jpg",
+   "set": "71027-6",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-07",
+   "name": "Llama Costume Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-7.jpg",
+   "set": "71027-7",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-08",
+   "name": "Viking",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-8.jpg",
+   "set": "71027-8",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-09",
+   "name": "Super Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-9.jpg",
+   "set": "71027-9",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-10",
+   "name": "Martial Arts Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-10.jpg",
+   "set": "71027-10",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-11",
+   "name": "Athlete",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-11.jpg",
+   "set": "71027-11",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-12",
+   "name": "Sea Rescuer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-12.jpg",
+   "set": "71027-12",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-13",
+   "name": "Brick Costume Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-13.jpg",
+   "set": "71027-13",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-14",
+   "name": "80's Musician",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-14.jpg",
+   "set": "71027-14",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-15",
+   "name": "Pajama Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-15.jpg",
+   "set": "71027-15",
+   "year": 2020
+  },
+  {
+   "id": "cmf71027-16",
+   "name": "Drone Boy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 20 (71027)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71027-16.jpg",
+   "set": "71027-16",
+   "year": 2020
+  },
+  {
+   "id": "cmf71020-01",
+   "name": "Disco Harley Quinn",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-1.jpg",
+   "set": "71020-1",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-02",
+   "name": "Disco Alfred",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-2.jpg",
+   "set": "71020-2",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-03",
+   "name": "Clock King",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-3.jpg",
+   "set": "71020-3",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-04",
+   "name": "Hugo Strange",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-4.jpg",
+   "set": "71020-4",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-05",
+   "name": "Mermaid Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-5.jpg",
+   "set": "71020-5",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-06",
+   "name": "Swimsuit Batman",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-6.jpg",
+   "set": "71020-6",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-07",
+   "name": "Vacation Joker",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-7.jpg",
+   "set": "71020-7",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-08",
+   "name": "Vacation Robin",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-8.jpg",
+   "set": "71020-8",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-09",
+   "name": "Vacation Batgirl",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-9.jpg",
+   "set": "71020-9",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-10",
+   "name": "Vacation Alfred",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-10.jpg",
+   "set": "71020-10",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-11",
+   "name": "Bat-Merch Batgirl",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-11.jpg",
+   "set": "71020-11",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-12",
+   "name": "Killer Moth",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-12.jpg",
+   "set": "71020-12",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-13",
+   "name": "Wonder Twin Jayna",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-13.jpg",
+   "set": "71020-13",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-14",
+   "name": "Wonder Twin Zan",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-14.jpg",
+   "set": "71020-14",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-15",
+   "name": "Apache Chief",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-15.jpg",
+   "set": "71020-15",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-16",
+   "name": "Jor-El",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-16.jpg",
+   "set": "71020-16",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-17",
+   "name": "General Zod",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-17.jpg",
+   "set": "71020-17",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-18",
+   "name": "Doctor Phosphorus",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-18.jpg",
+   "set": "71020-18",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-19",
+   "name": "Black Canary",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-19.jpg",
+   "set": "71020-19",
+   "year": 2018
+  },
+  {
+   "id": "cmf71020-20",
+   "name": "Black Vulcan",
+   "brand": "LEGO",
+   "series": "Minifigures The LEGO Batman Movie Series 2 (71020)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71020-20.jpg",
+   "set": "71020-20",
+   "year": 2018
+  },
+  {
+   "id": "cmf71029-01",
+   "name": "Paddle Surfer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-1.jpg",
+   "set": "71029-1",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-02",
+   "name": "Violin Kid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-2.jpg",
+   "set": "71029-2",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-03",
+   "name": "Shipwreck Survivor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-3.jpg",
+   "set": "71029-3",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-04",
+   "name": "Ladybug Girl / Ladybird Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-4.jpg",
+   "set": "71029-4",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-05",
+   "name": "Pug Costume Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-5.jpg",
+   "set": "71029-5",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-06",
+   "name": "Centaur Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-6.jpg",
+   "set": "71029-6",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-07",
+   "name": "Beekeeper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-7.jpg",
+   "set": "71029-7",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-08",
+   "name": "Ancient Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-8.jpg",
+   "set": "71029-8",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-09",
+   "name": "Airplane Girl",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-9.jpg",
+   "set": "71029-9",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-10",
+   "name": "Space Police Guy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-10.jpg",
+   "set": "71029-10",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-11",
+   "name": "Alien",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-11.jpg",
+   "set": "71029-11",
+   "year": 2021
+  },
+  {
+   "id": "cmf71029-12",
+   "name": "Cabaret Singer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 21 (71029)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71029-12.jpg",
+   "set": "71029-12",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-01",
+   "name": "Lola Bunny",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-1.jpg",
+   "set": "71030-1",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-02",
+   "name": "Bugs Bunny",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-2.jpg",
+   "set": "71030-2",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-03",
+   "name": "Wile E Coyote",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-3.jpg",
+   "set": "71030-3",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-04",
+   "name": "Road Runner",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-4.jpg",
+   "set": "71030-4",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-05",
+   "name": "Tweety",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-5.jpg",
+   "set": "71030-5",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-06",
+   "name": "Sylvester",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-6.jpg",
+   "set": "71030-6",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-07",
+   "name": "Daffy Duck",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-7.jpg",
+   "set": "71030-7",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-08",
+   "name": "Speedy Gonzales",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-8.jpg",
+   "set": "71030-8",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-09",
+   "name": "Taz the Tasmanian Devil",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-9.jpg",
+   "set": "71030-9",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-10",
+   "name": "Marvin the Martian",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-10.jpg",
+   "set": "71030-10",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-11",
+   "name": "Petunia Pig",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-11.jpg",
+   "set": "71030-11",
+   "year": 2021
+  },
+  {
+   "id": "cmf71030-12",
+   "name": "Porky Pig",
+   "brand": "LEGO",
+   "series": "Minifigures Looney Tunes (71030)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71030-12.jpg",
+   "set": "71030-12",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-01",
+   "name": "The Scarlet Witch",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-1.jpg",
+   "set": "71031-1",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-02",
+   "name": "The Vision",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-2.jpg",
+   "set": "71031-2",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-03",
+   "name": "Monica Rambeau",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-3.jpg",
+   "set": "71031-3",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-04",
+   "name": "Winter Soldier",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-4.jpg",
+   "set": "71031-4",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-05",
+   "name": "Captain America",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-5.jpg",
+   "set": "71031-5",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-06",
+   "name": "Loki",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-6.jpg",
+   "set": "71031-6",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-07",
+   "name": "Sylvie",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-7.jpg",
+   "set": "71031-7",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-08",
+   "name": "Zombie Hunter Spidey",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-8.jpg",
+   "set": "71031-8",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-09",
+   "name": "Zombie Captain America",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-9.jpg",
+   "set": "71031-9",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-10",
+   "name": "Captain Carter",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-10.jpg",
+   "set": "71031-10",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-11",
+   "name": "T'Challa Star-Lord",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-11.jpg",
+   "set": "71031-11",
+   "year": 2021
+  },
+  {
+   "id": "cmf71031-12",
+   "name": "Gamora with Blade of Thanos",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 1 (71031)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71031-12.jpg",
+   "set": "71031-12",
+   "year": 2021
+  },
+  {
+   "id": "cmf71032-01",
+   "name": "Robot Repair Tech",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-1.jpg",
+   "set": "71032-1",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-02",
+   "name": "Chili Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-2.jpg",
+   "set": "71032-2",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-03",
+   "name": "Troubadour",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-3.jpg",
+   "set": "71032-3",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-04",
+   "name": "Snow Guardian",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-4.jpg",
+   "set": "71032-4",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-05",
+   "name": "Horse and Groom",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-5.jpg",
+   "set": "71032-5",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-06",
+   "name": "Figure Skating Champion",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-6.jpg",
+   "set": "71032-6",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-07",
+   "name": "Night Protector",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-7.jpg",
+   "set": "71032-7",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-08",
+   "name": "Forest Elf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-8.jpg",
+   "set": "71032-8",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-09",
+   "name": "Bird-Watcher",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-9.jpg",
+   "set": "71032-9",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-10",
+   "name": "Raccoon Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-10.jpg",
+   "set": "71032-10",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-11",
+   "name": "Space Creature",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-11.jpg",
+   "set": "71032-11",
+   "year": 2022
+  },
+  {
+   "id": "cmf71032-12",
+   "name": "Wheelchair Racer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 22 (71032)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71032-12.jpg",
+   "set": "71032-12",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-01",
+   "name": "Rowlf",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-1.jpg",
+   "set": "71033-1",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-02",
+   "name": "Dr. Bunsen Honeydew",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-2.jpg",
+   "set": "71033-2",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-03",
+   "name": "Beaker",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-3.jpg",
+   "set": "71033-3",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-04",
+   "name": "The Great Gonzo",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-4.jpg",
+   "set": "71033-4",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-05",
+   "name": "Kermit the Frog",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-5.jpg",
+   "set": "71033-5",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-06",
+   "name": "Miss Piggy",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-6.jpg",
+   "set": "71033-6",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-07",
+   "name": "Fozzie Bear",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-7.jpg",
+   "set": "71033-7",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-08",
+   "name": "Animal",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-8.jpg",
+   "set": "71033-8",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-09",
+   "name": "Waldorf",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-9.jpg",
+   "set": "71033-9",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-10",
+   "name": "Statler",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-10.jpg",
+   "set": "71033-10",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-11",
+   "name": "Swedish Chef",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-11.jpg",
+   "set": "71033-11",
+   "year": 2022
+  },
+  {
+   "id": "cmf71033-12",
+   "name": "Janice",
+   "brand": "LEGO",
+   "series": "Minifigures The Muppets (71033)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71033-12.jpg",
+   "set": "71033-12",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-01",
+   "name": "Nutcracker",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-1.jpg",
+   "set": "71034-1",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-02",
+   "name": "Sugar Fairy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-2.jpg",
+   "set": "71034-2",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-03",
+   "name": "Snowman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-3.jpg",
+   "set": "71034-3",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-04",
+   "name": "Reindeer Costume",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-4.jpg",
+   "set": "71034-4",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-05",
+   "name": "Holiday Elf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-5.jpg",
+   "set": "71034-5",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-06",
+   "name": "Cardboard Robot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-6.jpg",
+   "set": "71034-6",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-07",
+   "name": "Popcorn Costume",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-7.jpg",
+   "set": "71034-7",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-08",
+   "name": "Wolf Costume",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-8.jpg",
+   "set": "71034-8",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-09",
+   "name": "Turkey Costume",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-9.jpg",
+   "set": "71034-9",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-10",
+   "name": "Ferry Captain",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-10.jpg",
+   "set": "71034-10",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-11",
+   "name": "Knight of the Yellow Castle",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-11.jpg",
+   "set": "71034-11",
+   "year": 2022
+  },
+  {
+   "id": "cmf71034-12",
+   "name": "Green Dragon Costume",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 23 (71034)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71034-12.jpg",
+   "set": "71034-12",
+   "year": 2022
+  },
+  {
+   "id": "cmf71037-01",
+   "name": "Football Referee",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-1.jpg",
+   "set": "71037-1",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-02",
+   "name": "Robot Warrior",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-2.jpg",
+   "set": "71037-2",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-03",
+   "name": "Brown Astronaut and Spacebaby",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-3.jpg",
+   "set": "71037-3",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-04",
+   "name": "Carrot Mascot",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-4.jpg",
+   "set": "71037-4",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-05",
+   "name": "Falconer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-5.jpg",
+   "set": "71037-5",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-06",
+   "name": "T-Rex Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-6.jpg",
+   "set": "71037-6",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-07",
+   "name": "Orc",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-7.jpg",
+   "set": "71037-7",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-08",
+   "name": "Conservationist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-8.jpg",
+   "set": "71037-8",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-09",
+   "name": "Potter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-9.jpg",
+   "set": "71037-9",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-10",
+   "name": "Rococo Aristocrat",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-10.jpg",
+   "set": "71037-10",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-11",
+   "name": "Rockin' Horse Rider",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-11.jpg",
+   "set": "71037-11",
+   "year": 2023
+  },
+  {
+   "id": "cmf71037-12",
+   "name": "Newspaper Kid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 24 (71037)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71037-12.jpg",
+   "set": "71037-12",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-01",
+   "name": "Oswald the Lucky Rabbit",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-1.jpg",
+   "set": "71038-1",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-02",
+   "name": "Pinocchio",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-2.jpg",
+   "set": "71038-2",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-03",
+   "name": "Jiminy Cricket",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-3.jpg",
+   "set": "71038-3",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-04",
+   "name": "Sorcerer's Apprentice Mickey",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-4.jpg",
+   "set": "71038-4",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-05",
+   "name": "Tiana",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-5.jpg",
+   "set": "71038-5",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-06",
+   "name": "Dr. Facilier",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-6.jpg",
+   "set": "71038-6",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-07",
+   "name": "Queen of Hearts",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-7.jpg",
+   "set": "71038-7",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-08",
+   "name": "Aurora",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-8.jpg",
+   "set": "71038-8",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-09",
+   "name": "Mulan",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-9.jpg",
+   "set": "71038-9",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-10",
+   "name": "Ernesto De La Cruz",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-10.jpg",
+   "set": "71038-10",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-11",
+   "name": "Miguel Rivera",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-11.jpg",
+   "set": "71038-11",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-12",
+   "name": "Pocahontas",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-12.jpg",
+   "set": "71038-12",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-13",
+   "name": "Cruella de Vil",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-13.jpg",
+   "set": "71038-13",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-14",
+   "name": "Robin Hood",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-14.jpg",
+   "set": "71038-14",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-15",
+   "name": "Prince John",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-15.jpg",
+   "set": "71038-15",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-16",
+   "name": "Experiment 626 Stitch",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-16.jpg",
+   "set": "71038-16",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-17",
+   "name": "Baymax",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-17.jpg",
+   "set": "71038-17",
+   "year": 2023
+  },
+  {
+   "id": "cmf71038-18",
+   "name": "The Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Disney 100 (71038)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71038-18.jpg",
+   "set": "71038-18",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-01",
+   "name": "Agatha Harkness",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-1.jpg",
+   "set": "71039-1",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-02",
+   "name": "Moon Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-2.jpg",
+   "set": "71039-2",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-03",
+   "name": "Mr. Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-3.jpg",
+   "set": "71039-3",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-04",
+   "name": "The Werewolf",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-4.jpg",
+   "set": "71039-4",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-05",
+   "name": "She-Hulk",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-5.jpg",
+   "set": "71039-5",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-06",
+   "name": "Hawkeye",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-6.jpg",
+   "set": "71039-6",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-07",
+   "name": "Kate Bishop",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-7.jpg",
+   "set": "71039-7",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-08",
+   "name": "Goliath",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-8.jpg",
+   "set": "71039-8",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-09",
+   "name": "Echo",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-9.jpg",
+   "set": "71039-9",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-10",
+   "name": "Beast",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-10.jpg",
+   "set": "71039-10",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-11",
+   "name": "Storm",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-11.jpg",
+   "set": "71039-11",
+   "year": 2023
+  },
+  {
+   "id": "cmf71039-12",
+   "name": "Wolverine",
+   "brand": "LEGO",
+   "series": "Minifigures Marvel Series 2 (71039)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71039-12.jpg",
+   "set": "71039-12",
+   "year": 2023
+  },
+  {
+   "id": "cmf25-07",
+   "name": "Film Noir Detective",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-1.jpg",
+   "set": "71045-1",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-11",
+   "name": "E-Sports Gamer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-2.jpg",
+   "set": "71045-2",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-12",
+   "name": "Vampire Knight",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-3.jpg",
+   "set": "71045-3",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-08",
+   "name": "Sprinter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-4.jpg",
+   "set": "71045-4",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-04",
+   "name": "Goatherd",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-5.jpg",
+   "set": "71045-5",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-03",
+   "name": "Mushroom Sprite",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-6.jpg",
+   "set": "71045-6",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-02",
+   "name": "Fitness Instructor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-7.jpg",
+   "set": "71045-7",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-10",
+   "name": "Triceratops Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-8.jpg",
+   "set": "71045-8",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-05",
+   "name": "Harpy",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-9.jpg",
+   "set": "71045-9",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-06",
+   "name": "Train Kid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-10.jpg",
+   "set": "71045-10",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-01",
+   "name": "Fierce Barbarian",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-11.jpg",
+   "set": "71045-11",
+   "year": 2024
+  },
+  {
+   "id": "cmf25-09",
+   "name": "Pet Groomer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 25 (71045)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71045-12.jpg",
+   "set": "71045-12",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-12",
+   "name": "Spacewalking Astronaut",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-1.jpg",
+   "set": "71046-1",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-06",
+   "name": "Imposter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-2.jpg",
+   "set": "71046-2",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-02",
+   "name": "Alien Tourist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-3.jpg",
+   "set": "71046-3",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-10",
+   "name": "Retro Space Heroine",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-4.jpg",
+   "set": "71046-4",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-07",
+   "name": "M-Tron Powerlifter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-5.jpg",
+   "set": "71046-5",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-08",
+   "name": "Nurse Android",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-6.jpg",
+   "set": "71046-6",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-04",
+   "name": "Flying Saucer Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-7.jpg",
+   "set": "71046-7",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-05",
+   "name": "Ice Planet Explorer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-8.jpg",
+   "set": "71046-8",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-11",
+   "name": "Robot Butler",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-9.jpg",
+   "set": "71046-9",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-01",
+   "name": "Alien Beetlezoid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-10.jpg",
+   "set": "71046-10",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-09",
+   "name": "Orion",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-11.jpg",
+   "set": "71046-11",
+   "year": 2024
+  },
+  {
+   "id": "cmf26-03",
+   "name": "Blacktron Mutant",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 26 Kosmos (71046)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71046-12.jpg",
+   "set": "71046-12",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-01",
+   "name": "Dwarf Barbarian",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-1.jpg",
+   "set": "71047-1",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-02",
+   "name": "Gith Warlock",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-2.jpg",
+   "set": "71047-2",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-03",
+   "name": "Tiefling Sorcerer",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-3.jpg",
+   "set": "71047-3",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-04",
+   "name": "Dragonborn Paladin",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-4.jpg",
+   "set": "71047-4",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-05",
+   "name": "Halfling Druid",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-5.jpg",
+   "set": "71047-5",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-06",
+   "name": "Aarakocra Ranger",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-6.jpg",
+   "set": "71047-6",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-07",
+   "name": "Mind Flayer",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-7.jpg",
+   "set": "71047-7",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-08",
+   "name": "Strahd von Zarovich",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-8.jpg",
+   "set": "71047-8",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-09",
+   "name": "Elf Bard",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-9.jpg",
+   "set": "71047-9",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-10",
+   "name": "The Lady of Pain",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-10.jpg",
+   "set": "71047-10",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-11",
+   "name": "Szass Tam",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-11.jpg",
+   "set": "71047-11",
+   "year": 2024
+  },
+  {
+   "id": "cmf71047-12",
+   "name": "Tasha the Witch Queen",
+   "brand": "LEGO",
+   "series": "Minifigures Dungeons & Dragons (71047)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71047-12.jpg",
+   "set": "71047-12",
+   "year": 2024
+  },
+  {
+   "id": "cmf71048-01",
+   "name": "Hamster Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-1.jpg",
+   "set": "71048-1",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-02",
+   "name": "Wolfpack Beastmaster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-2.jpg",
+   "set": "71048-2",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-03",
+   "name": "Jetpack Racer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-3.jpg",
+   "set": "71048-3",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-04",
+   "name": "Astronomer Kid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-4.jpg",
+   "set": "71048-4",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-05",
+   "name": "Plush Toy Collector",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-5.jpg",
+   "set": "71048-5",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-06",
+   "name": "Pterodactyl Costume Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-6.jpg",
+   "set": "71048-6",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-07",
+   "name": "Longboarder",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-7.jpg",
+   "set": "71048-7",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-08",
+   "name": "Bogeyman",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-8.jpg",
+   "set": "71048-8",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-09",
+   "name": "Cupid",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-9.jpg",
+   "set": "71048-9",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-10",
+   "name": "Pirate Quartermaster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-10.jpg",
+   "set": "71048-10",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-11",
+   "name": "Cat Lover",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-11.jpg",
+   "set": "71048-11",
+   "year": 2025
+  },
+  {
+   "id": "cmf71048-12",
+   "name": "Steampunk Inventor",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 27 (71048)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71048-12.jpg",
+   "set": "71048-12",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-01",
+   "name": "RB20",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-1.jpg",
+   "set": "71049-1",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-02",
+   "name": "Mercedes-AMG",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-2.jpg",
+   "set": "71049-2",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-03",
+   "name": "Ferrari",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-3.jpg",
+   "set": "71049-3",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-04",
+   "name": "McLaren",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-4.jpg",
+   "set": "71049-4",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-05",
+   "name": "Aston Martin",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-5.jpg",
+   "set": "71049-5",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-06",
+   "name": "Alpine",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-6.jpg",
+   "set": "71049-6",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-07",
+   "name": "Williams",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-7.jpg",
+   "set": "71049-7",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-08",
+   "name": "VCARB",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-8.jpg",
+   "set": "71049-8",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-09",
+   "name": "Sauber",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-9.jpg",
+   "set": "71049-9",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-10",
+   "name": "Haas",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-10.jpg",
+   "set": "71049-10",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-11",
+   "name": "F1 ACADEMY",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-11.jpg",
+   "set": "71049-11",
+   "year": 2025
+  },
+  {
+   "id": "cmf71049-12",
+   "name": "F1 Car",
+   "brand": "LEGO",
+   "series": "Minifigures Formula 1 (71049)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71049-12.jpg",
+   "set": "71049-12",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-01",
+   "name": "Miles Morales / Spider-Man",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-1.jpg",
+   "set": "71050-1",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-02",
+   "name": "Hobie Brown / Spider-Punk",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-2.jpg",
+   "set": "71050-2",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-03",
+   "name": "Miles G. Morales / Prowler",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-3.jpg",
+   "set": "71050-3",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-04",
+   "name": "Gwen Stacy / Spider-Gwen",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-4.jpg",
+   "set": "71050-4",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-05",
+   "name": "Miguel O'Hara / Spider-Man 2099",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-5.jpg",
+   "set": "71050-5",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-06",
+   "name": "Pavitr Prabhakar / Spider-Man India",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-6.jpg",
+   "set": "71050-6",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-07",
+   "name": "Petra Parker / Cyborg Spider-Woman",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-7.jpg",
+   "set": "71050-7",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-08",
+   "name": "Charlotte Webber / Sun-Spider",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-8.jpg",
+   "set": "71050-8",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-09",
+   "name": "Margo Kess / Spider-Byte",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-9.jpg",
+   "set": "71050-9",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-10",
+   "name": "Peter B. Parker / Spider-Man & May 'Mayday' Parker",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-10.jpg",
+   "set": "71050-10",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-11",
+   "name": "Patrick O'Hara / Web-Slinger",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-11.jpg",
+   "set": "71050-11",
+   "year": 2025
+  },
+  {
+   "id": "cmf71050-12",
+   "name": "Peter Parker / Werewolf Spider-Man",
+   "brand": "LEGO",
+   "series": "Minifigures Spider-Man - Across the Spider-Verse (71050)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71050-12.jpg",
+   "set": "71050-12",
+   "year": 2025
+  },
+  {
+   "id": "cmf71051-01",
+   "name": "Peacock Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-1.jpg",
+   "set": "71051-1",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-02",
+   "name": "Cat Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-2.jpg",
+   "set": "71051-2",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-03",
+   "name": "Goldfish Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-3.jpg",
+   "set": "71051-3",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-04",
+   "name": "Monkey Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-4.jpg",
+   "set": "71051-4",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-05",
+   "name": "Frog Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-5.jpg",
+   "set": "71051-5",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-06",
+   "name": "Koala Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-6.jpg",
+   "set": "71051-6",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-07",
+   "name": "Dalmatian Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-7.jpg",
+   "set": "71051-7",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-08",
+   "name": "Crocodile Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-8.jpg",
+   "set": "71051-8",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-09",
+   "name": "Dolphin Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-9.jpg",
+   "set": "71051-9",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-10",
+   "name": "Rabbit Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-10.jpg",
+   "set": "71051-10",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-11",
+   "name": "Lion Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-11.jpg",
+   "set": "71051-11",
+   "year": 2026
+  },
+  {
+   "id": "cmf71051-12",
+   "name": "Parrot Suit",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 28 (71051)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71051-12.jpg",
+   "set": "71051-12",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-01",
+   "name": "Robot T. rex",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-1.jpg",
+   "set": "71052-1",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-02",
+   "name": "Marine Biologist",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-2.jpg",
+   "set": "71052-2",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-03",
+   "name": "BIONICLE Cosplayer",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-3.jpg",
+   "set": "71052-3",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-04",
+   "name": "Monster Hunter",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-4.jpg",
+   "set": "71052-4",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-05",
+   "name": "Boba Cup Fan",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-5.jpg",
+   "set": "71052-5",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-06",
+   "name": "Trash Monster",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-6.jpg",
+   "set": "71052-6",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-07",
+   "name": "Chocolatier",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-7.jpg",
+   "set": "71052-7",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-08",
+   "name": "Tuba Player",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-8.jpg",
+   "set": "71052-8",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-09",
+   "name": "Football Goalkeeper",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-9.jpg",
+   "set": "71052-9",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-10",
+   "name": "Cute Witch",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-10.jpg",
+   "set": "71052-10",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-11",
+   "name": "Mysterious Ronin",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-11.jpg",
+   "set": "71052-11",
+   "year": 2026
+  },
+  {
+   "id": "cmf71052-12",
+   "name": "Unicorn Elf",
+   "brand": "LEGO",
+   "series": "Minifigures Seria 29 (71052)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71052-12.jpg",
+   "set": "71052-12",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-01",
+   "name": "Thelonious",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-1.jpg",
+   "set": "71053-1",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-02",
+   "name": "Puss in Boots",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-2.jpg",
+   "set": "71053-2",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-03",
+   "name": "Gingy",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-3.jpg",
+   "set": "71053-3",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-04",
+   "name": "Shrek",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-4.jpg",
+   "set": "71053-4",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-05",
+   "name": "Dragon",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-5.jpg",
+   "set": "71053-5",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-06",
+   "name": "Fiona and Donkey",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-6.jpg",
+   "set": "71053-6",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-07",
+   "name": "Merlin",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-7.jpg",
+   "set": "71053-7",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-08",
+   "name": "Pinocchio",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-8.jpg",
+   "set": "71053-8",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-09",
+   "name": "Big Bad Wolf",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-9.jpg",
+   "set": "71053-9",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-10",
+   "name": "Lord Farquaad",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-10.jpg",
+   "set": "71053-10",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-11",
+   "name": "Fairy Godmother",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-11.jpg",
+   "set": "71053-11",
+   "year": 2026
+  },
+  {
+   "id": "cmf71053-12",
+   "name": "Prince Charming",
+   "brand": "LEGO",
+   "series": "Minifigures Shrek (71053)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-12.jpg",
+   "set": "71053-12",
+   "year": 2026
+  }
+ ],
+ "codes": [
+  {
+   "code": "6472860",
+   "figId": "cmf25-01"
+  },
+  {
+   "code": "6471959",
+   "figId": "cmf25-01"
+  },
+  {
+   "code": "6472861",
+   "figId": "cmf25-02"
+  },
+  {
+   "code": "6471960",
+   "figId": "cmf25-02"
+  },
+  {
+   "code": "6472862",
+   "figId": "cmf25-03"
+  },
+  {
+   "code": "6471961",
+   "figId": "cmf25-03"
+  },
+  {
+   "code": "6472863",
+   "figId": "cmf25-04"
+  },
+  {
+   "code": "6471962",
+   "figId": "cmf25-04"
+  },
+  {
+   "code": "6472864",
+   "figId": "cmf25-05"
+  },
+  {
+   "code": "6471963",
+   "figId": "cmf25-05"
+  },
+  {
+   "code": "6472865",
+   "figId": "cmf25-06"
+  },
+  {
+   "code": "6471964",
+   "figId": "cmf25-06"
+  },
+  {
+   "code": "6472866",
+   "figId": "cmf25-07"
+  },
+  {
+   "code": "6471965",
+   "figId": "cmf25-07"
+  },
+  {
+   "code": "6472867",
+   "figId": "cmf25-08"
+  },
+  {
+   "code": "6471966",
+   "figId": "cmf25-08"
+  },
+  {
+   "code": "6472868",
+   "figId": "cmf25-09"
+  },
+  {
+   "code": "6471967",
+   "figId": "cmf25-09"
+  },
+  {
+   "code": "6472869",
+   "figId": "cmf25-10"
+  },
+  {
+   "code": "6471968",
+   "figId": "cmf25-10"
+  },
+  {
+   "code": "6472870",
+   "figId": "cmf25-11"
+  },
+  {
+   "code": "6471969",
+   "figId": "cmf25-11"
+  },
+  {
+   "code": "6472871",
+   "figId": "cmf25-12"
+  },
+  {
+   "code": "6471970",
+   "figId": "cmf25-12"
+  },
+  {
+   "code": "6484921",
+   "figId": "cmf26-01"
+  },
+  {
+   "code": "6484689",
+   "figId": "cmf26-01"
+  },
+  {
+   "code": "6484908",
+   "figId": "cmf26-01"
+  },
+  {
+   "code": "6484926",
+   "figId": "cmf26-02"
+  },
+  {
+   "code": "6484694",
+   "figId": "cmf26-02"
+  },
+  {
+   "code": "6484914",
+   "figId": "cmf26-02"
+  },
+  {
+   "code": "6484917",
+   "figId": "cmf26-03"
+  },
+  {
+   "code": "6484685",
+   "figId": "cmf26-03"
+  },
+  {
+   "code": "6484904",
+   "figId": "cmf26-03"
+  },
+  {
+   "code": "6484924",
+   "figId": "cmf26-04"
+  },
+  {
+   "code": "6484692",
+   "figId": "cmf26-04"
+  },
+  {
+   "code": "6484911",
+   "figId": "cmf26-04"
+  },
+  {
+   "code": "6484918",
+   "figId": "cmf26-05"
+  },
+  {
+   "code": "6484686",
+   "figId": "cmf26-05"
+  },
+  {
+   "code": "6484905",
+   "figId": "cmf26-05"
+  },
+  {
+   "code": "6484919",
+   "figId": "cmf26-06"
+  },
+  {
+   "code": "6484687",
+   "figId": "cmf26-06"
+  },
+  {
+   "code": "6484906",
+   "figId": "cmf26-06"
+  },
+  {
+   "code": "6484925",
+   "figId": "cmf26-07"
+  },
+  {
+   "code": "6484693",
+   "figId": "cmf26-07"
+  },
+  {
+   "code": "6484912",
+   "figId": "cmf26-07"
+  },
+  {
+   "code": "6484923",
+   "figId": "cmf26-08"
+  },
+  {
+   "code": "6484691",
+   "figId": "cmf26-08"
+  },
+  {
+   "code": "6484910",
+   "figId": "cmf26-08"
+  },
+  {
+   "code": "6484927",
+   "figId": "cmf26-09"
+  },
+  {
+   "code": "6484695",
+   "figId": "cmf26-09"
+  },
+  {
+   "code": "6484915",
+   "figId": "cmf26-09"
+  },
+  {
+   "code": "6484922",
+   "figId": "cmf26-10"
+  },
+  {
+   "code": "6484690",
+   "figId": "cmf26-10"
+  },
+  {
+   "code": "6484909",
+   "figId": "cmf26-10"
+  },
+  {
+   "code": "6484920",
+   "figId": "cmf26-11"
+  },
+  {
+   "code": "6484688",
+   "figId": "cmf26-11"
+  },
+  {
+   "code": "6484907",
+   "figId": "cmf26-11"
+  },
+  {
+   "code": "6484928",
+   "figId": "cmf26-12"
+  },
+  {
+   "code": "6484696",
+   "figId": "cmf26-12"
+  },
+  {
+   "code": "6484916",
+   "figId": "cmf26-12"
+  }
+ ]
 }
