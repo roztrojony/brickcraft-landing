@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "_info": "Wszystkie serie Collectible Minifigures (dane: Rebrickable, rebrickable.com, CC). Kody DataMatrix z pudelek (7 pierwszych cyfr): S25 Brick Fanatics/FourBricksTall, S26 Jay's Brick Blog.",
  "figures": [
   {
@@ -7326,6 +7326,146 @@
   {
    "code": "6484916",
    "figId": "cmf26-12"
+  },
+  {
+   "code": "6603320",
+   "figId": "cmf71052-09"
+  },
+  {
+   "code": "6605246",
+   "figId": "cmf71052-09"
+  },
+  {
+   "code": "6685259",
+   "figId": "cmf71052-09"
+  },
+  {
+   "code": "6603321",
+   "figId": "cmf71052-02"
+  },
+  {
+   "code": "6605247",
+   "figId": "cmf71052-02"
+  },
+  {
+   "code": "6603322",
+   "figId": "cmf71052-02"
+  },
+  {
+   "code": "6605248",
+   "figId": "cmf71052-08"
+  },
+  {
+   "code": "6605252",
+   "figId": "cmf71052-12"
+  },
+  {
+   "code": "6603326",
+   "figId": "cmf71052-12"
+  },
+  {
+   "code": "6685265",
+   "figId": "cmf71052-12"
+  },
+  {
+   "code": "6605254",
+   "figId": "cmf71052-04"
+  },
+  {
+   "code": "6603328",
+   "figId": "cmf71052-04"
+  },
+  {
+   "code": "6685267",
+   "figId": "cmf71052-04"
+  },
+  {
+   "code": "6603331",
+   "figId": "cmf71052-01"
+  },
+  {
+   "code": "6605257",
+   "figId": "cmf71052-01"
+  },
+  {
+   "code": "6603323",
+   "figId": "cmf71052-07"
+  },
+  {
+   "code": "6605249",
+   "figId": "cmf71052-07"
+  },
+  {
+   "code": "6685262",
+   "figId": "cmf71052-07"
+  },
+  {
+   "code": "6603324",
+   "figId": "cmf71052-05"
+  },
+  {
+   "code": "6605250",
+   "figId": "cmf71052-05"
+  },
+  {
+   "code": "6685263",
+   "figId": "cmf71052-05"
+  },
+  {
+   "code": "6605251",
+   "figId": "cmf71052-03"
+  },
+  {
+   "code": "6603325",
+   "figId": "cmf71052-03"
+  },
+  {
+   "code": "6685264",
+   "figId": "cmf71052-03"
+  },
+  {
+   "code": "6603327",
+   "figId": "cmf71052-11"
+  },
+  {
+   "code": "6605253",
+   "figId": "cmf71052-11"
+  },
+  {
+   "code": "6685266",
+   "figId": "cmf71052-11"
+  },
+  {
+   "code": "6603329",
+   "figId": "cmf71052-10"
+  },
+  {
+   "code": "6605255",
+   "figId": "cmf71052-10"
+  },
+  {
+   "code": "6685268",
+   "figId": "cmf71052-10"
+  },
+  {
+   "code": "6603330",
+   "figId": "cmf71052-06"
+  },
+  {
+   "code": "6605256",
+   "figId": "cmf71052-06"
+  },
+  {
+   "code": "6685269",
+   "figId": "cmf71052-06"
+  },
+  {
+   "code": "6605260",
+   "figId": "cmf71052-02"
+  },
+  {
+   "code": "6605270",
+   "figId": "cmf71052-01"
   }
  ]
 }
