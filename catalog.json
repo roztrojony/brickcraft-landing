@@ -1,6 +1,6 @@
 {
  "version": 4,
- "_info": "Wszystkie serie Collectible Minifigures (dane: Rebrickable, rebrickable.com, CC). Kody DataMatrix z pudelek (7 pierwszych cyfr): S25 Brick Fanatics/FourBricksTall, S26 Jay's Brick Blog.",
+ "_info": "Wszystkie serie Collectible Minifigures (dane: Rebrickable, rebrickable.com, CC). Kody DataMatrix z pudelek (7 pierwszych cyfr): S25 Brick Fanatics/FourBricksTall, S26 Jay's Brick Blog. Kody S25-S29, D&D, F1, Spider-Verse, Shrek, Mighty Machines: L-Scan (github.com/le0pard/lego-scanner), MIT License, Copyright (c) 2026 Oleksii Vasyliev.",
  "figures": [
   {
    "id": "cmf8683-01",
@@ -7084,6 +7084,78 @@
    "imageUrl": "https://cdn.rebrickable.com/media/sets/71053-12.jpg",
    "set": "71053-12",
    "year": 2026
+  },
+  {
+   "id": "cmf42233-01",
+   "name": "Road Roller",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-1.jpg",
+   "set": "42233-1",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-02",
+   "name": "Wheel Loader",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-2.jpg",
+   "set": "42233-2",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-03",
+   "name": "Dump Truck",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-3.jpg",
+   "set": "42233-3",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-04",
+   "name": "Cement Truck",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-4.jpg",
+   "set": "42233-4",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-05",
+   "name": "Wrecking Ball Crane",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-5.jpg",
+   "set": "42233-5",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-06",
+   "name": "Excavator",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-6.jpg",
+   "set": "42233-6",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-07",
+   "name": "Mobile Crane",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-7.jpg",
+   "set": "42233-7",
+   "year": 2026
+  },
+  {
+   "id": "cmf42233-08",
+   "name": "Bulldozer",
+   "brand": "LEGO",
+   "series": "LEGO Technic Mighty Machines Seria 1 (42233)",
+   "imageUrl": "https://cdn.rebrickable.com/media/sets/42233-8.jpg",
+   "set": "42233-8",
+   "year": 2026
   }
  ],
  "codes": [
@@ -7328,6 +7400,694 @@
    "figId": "cmf26-12"
   },
   {
+   "code": "6506754",
+   "figId": "cmf71047-01"
+  },
+  {
+   "code": "6502839",
+   "figId": "cmf71047-01"
+  },
+  {
+   "code": "6506740",
+   "figId": "cmf71047-01"
+  },
+  {
+   "code": "6506757",
+   "figId": "cmf71047-02"
+  },
+  {
+   "code": "6502842",
+   "figId": "cmf71047-02"
+  },
+  {
+   "code": "6506743",
+   "figId": "cmf71047-02"
+  },
+  {
+   "code": "6506751",
+   "figId": "cmf71047-03"
+  },
+  {
+   "code": "6502836",
+   "figId": "cmf71047-03"
+  },
+  {
+   "code": "6506737",
+   "figId": "cmf71047-03"
+  },
+  {
+   "code": "6506755",
+   "figId": "cmf71047-04"
+  },
+  {
+   "code": "6502840",
+   "figId": "cmf71047-04"
+  },
+  {
+   "code": "6506741",
+   "figId": "cmf71047-04"
+  },
+  {
+   "code": "6506753",
+   "figId": "cmf71047-05"
+  },
+  {
+   "code": "6502838",
+   "figId": "cmf71047-05"
+  },
+  {
+   "code": "6506739",
+   "figId": "cmf71047-05"
+  },
+  {
+   "code": "6506756",
+   "figId": "cmf71047-06"
+  },
+  {
+   "code": "6502841",
+   "figId": "cmf71047-06"
+  },
+  {
+   "code": "6506742",
+   "figId": "cmf71047-06"
+  },
+  {
+   "code": "6506758",
+   "figId": "cmf71047-07"
+  },
+  {
+   "code": "6502843",
+   "figId": "cmf71047-07"
+  },
+  {
+   "code": "6506744",
+   "figId": "cmf71047-07"
+  },
+  {
+   "code": "6506760",
+   "figId": "cmf71047-08"
+  },
+  {
+   "code": "6502845",
+   "figId": "cmf71047-08"
+  },
+  {
+   "code": "6506746",
+   "figId": "cmf71047-08"
+  },
+  {
+   "code": "6506752",
+   "figId": "cmf71047-09"
+  },
+  {
+   "code": "6502837",
+   "figId": "cmf71047-09"
+  },
+  {
+   "code": "6506738",
+   "figId": "cmf71047-09"
+  },
+  {
+   "code": "6506759",
+   "figId": "cmf71047-10"
+  },
+  {
+   "code": "6502844",
+   "figId": "cmf71047-10"
+  },
+  {
+   "code": "6506745",
+   "figId": "cmf71047-10"
+  },
+  {
+   "code": "6506762",
+   "figId": "cmf71047-11"
+  },
+  {
+   "code": "6502847",
+   "figId": "cmf71047-11"
+  },
+  {
+   "code": "6506748",
+   "figId": "cmf71047-11"
+  },
+  {
+   "code": "6506761",
+   "figId": "cmf71047-12"
+  },
+  {
+   "code": "6502846",
+   "figId": "cmf71047-12"
+  },
+  {
+   "code": "6506747",
+   "figId": "cmf71047-12"
+  },
+  {
+   "code": "6538426",
+   "figId": "cmf71049-01"
+  },
+  {
+   "code": "6536842",
+   "figId": "cmf71049-01"
+  },
+  {
+   "code": "6538306",
+   "figId": "cmf71049-01"
+  },
+  {
+   "code": "6538427",
+   "figId": "cmf71049-02"
+  },
+  {
+   "code": "6536843",
+   "figId": "cmf71049-02"
+  },
+  {
+   "code": "6538307",
+   "figId": "cmf71049-02"
+  },
+  {
+   "code": "6538425",
+   "figId": "cmf71049-03"
+  },
+  {
+   "code": "6536841",
+   "figId": "cmf71049-03"
+  },
+  {
+   "code": "6538305",
+   "figId": "cmf71049-03"
+  },
+  {
+   "code": "6538434",
+   "figId": "cmf71049-04"
+  },
+  {
+   "code": "6536850",
+   "figId": "cmf71049-04"
+  },
+  {
+   "code": "6538314",
+   "figId": "cmf71049-04"
+  },
+  {
+   "code": "6538428",
+   "figId": "cmf71049-05"
+  },
+  {
+   "code": "6536844",
+   "figId": "cmf71049-05"
+  },
+  {
+   "code": "6538308",
+   "figId": "cmf71049-05"
+  },
+  {
+   "code": "6538431",
+   "figId": "cmf71049-06"
+  },
+  {
+   "code": "6536847",
+   "figId": "cmf71049-06"
+  },
+  {
+   "code": "6538311",
+   "figId": "cmf71049-06"
+  },
+  {
+   "code": "6538432",
+   "figId": "cmf71049-07"
+  },
+  {
+   "code": "6536848",
+   "figId": "cmf71049-07"
+  },
+  {
+   "code": "6538312",
+   "figId": "cmf71049-07"
+  },
+  {
+   "code": "6538429",
+   "figId": "cmf71049-08"
+  },
+  {
+   "code": "6536845",
+   "figId": "cmf71049-08"
+  },
+  {
+   "code": "6538309",
+   "figId": "cmf71049-08"
+  },
+  {
+   "code": "6538430",
+   "figId": "cmf71049-09"
+  },
+  {
+   "code": "6536846",
+   "figId": "cmf71049-09"
+  },
+  {
+   "code": "6538310",
+   "figId": "cmf71049-09"
+  },
+  {
+   "code": "6538433",
+   "figId": "cmf71049-10"
+  },
+  {
+   "code": "6536849",
+   "figId": "cmf71049-10"
+  },
+  {
+   "code": "6538313",
+   "figId": "cmf71049-10"
+  },
+  {
+   "code": "6538436",
+   "figId": "cmf71049-11"
+  },
+  {
+   "code": "6536852",
+   "figId": "cmf71049-11"
+  },
+  {
+   "code": "6538316",
+   "figId": "cmf71049-11"
+  },
+  {
+   "code": "6538435",
+   "figId": "cmf71049-12"
+  },
+  {
+   "code": "6536851",
+   "figId": "cmf71049-12"
+  },
+  {
+   "code": "6538315",
+   "figId": "cmf71049-12"
+  },
+  {
+   "code": "6590734",
+   "figId": "cmf42233-01"
+  },
+  {
+   "code": "6590742",
+   "figId": "cmf42233-01"
+  },
+  {
+   "code": "6590735",
+   "figId": "cmf42233-02"
+  },
+  {
+   "code": "6590743",
+   "figId": "cmf42233-02"
+  },
+  {
+   "code": "6590736",
+   "figId": "cmf42233-03"
+  },
+  {
+   "code": "6590744",
+   "figId": "cmf42233-03"
+  },
+  {
+   "code": "6590737",
+   "figId": "cmf42233-04"
+  },
+  {
+   "code": "6590745",
+   "figId": "cmf42233-04"
+  },
+  {
+   "code": "6590738",
+   "figId": "cmf42233-05"
+  },
+  {
+   "code": "6590746",
+   "figId": "cmf42233-05"
+  },
+  {
+   "code": "6590739",
+   "figId": "cmf42233-06"
+  },
+  {
+   "code": "6590747",
+   "figId": "cmf42233-06"
+  },
+  {
+   "code": "6590740",
+   "figId": "cmf42233-07"
+  },
+  {
+   "code": "6590748",
+   "figId": "cmf42233-07"
+  },
+  {
+   "code": "6590741",
+   "figId": "cmf42233-08"
+  },
+  {
+   "code": "6590749",
+   "figId": "cmf42233-08"
+  },
+  {
+   "code": "6472899",
+   "figId": "cmf25-07"
+  },
+  {
+   "code": "6472903",
+   "figId": "cmf25-11"
+  },
+  {
+   "code": "6472904",
+   "figId": "cmf25-12"
+  },
+  {
+   "code": "6472900",
+   "figId": "cmf25-08"
+  },
+  {
+   "code": "6472896",
+   "figId": "cmf25-04"
+  },
+  {
+   "code": "6472895",
+   "figId": "cmf25-03"
+  },
+  {
+   "code": "6472894",
+   "figId": "cmf25-02"
+  },
+  {
+   "code": "6472902",
+   "figId": "cmf25-10"
+  },
+  {
+   "code": "6472897",
+   "figId": "cmf25-05"
+  },
+  {
+   "code": "6472898",
+   "figId": "cmf25-06"
+  },
+  {
+   "code": "6472893",
+   "figId": "cmf25-01"
+  },
+  {
+   "code": "6472901",
+   "figId": "cmf25-09"
+  },
+  {
+   "code": "6522982",
+   "figId": "cmf71048-01"
+  },
+  {
+   "code": "6522667",
+   "figId": "cmf71048-01"
+  },
+  {
+   "code": "6522994",
+   "figId": "cmf71048-01"
+  },
+  {
+   "code": "6522981",
+   "figId": "cmf71048-02"
+  },
+  {
+   "code": "6522666",
+   "figId": "cmf71048-02"
+  },
+  {
+   "code": "6522993",
+   "figId": "cmf71048-02"
+  },
+  {
+   "code": "6522986",
+   "figId": "cmf71048-03"
+  },
+  {
+   "code": "6522671",
+   "figId": "cmf71048-03"
+  },
+  {
+   "code": "6522998",
+   "figId": "cmf71048-03"
+  },
+  {
+   "code": "6522989",
+   "figId": "cmf71048-04"
+  },
+  {
+   "code": "6522674",
+   "figId": "cmf71048-04"
+  },
+  {
+   "code": "6523001",
+   "figId": "cmf71048-04"
+  },
+  {
+   "code": "6522991",
+   "figId": "cmf71048-05"
+  },
+  {
+   "code": "6522676",
+   "figId": "cmf71048-05"
+  },
+  {
+   "code": "6523003",
+   "figId": "cmf71048-05"
+  },
+  {
+   "code": "6522988",
+   "figId": "cmf71048-06"
+  },
+  {
+   "code": "6522673",
+   "figId": "cmf71048-06"
+  },
+  {
+   "code": "6523000",
+   "figId": "cmf71048-06"
+  },
+  {
+   "code": "6522983",
+   "figId": "cmf71048-07"
+  },
+  {
+   "code": "6522668",
+   "figId": "cmf71048-07"
+  },
+  {
+   "code": "6522995",
+   "figId": "cmf71048-07"
+  },
+  {
+   "code": "6522992",
+   "figId": "cmf71048-08"
+  },
+  {
+   "code": "6522677",
+   "figId": "cmf71048-08"
+  },
+  {
+   "code": "6523004",
+   "figId": "cmf71048-08"
+  },
+  {
+   "code": "6522985",
+   "figId": "cmf71048-09"
+  },
+  {
+   "code": "6522670",
+   "figId": "cmf71048-09"
+  },
+  {
+   "code": "6522997",
+   "figId": "cmf71048-09"
+  },
+  {
+   "code": "6522987",
+   "figId": "cmf71048-10"
+  },
+  {
+   "code": "6522672",
+   "figId": "cmf71048-10"
+  },
+  {
+   "code": "6522999",
+   "figId": "cmf71048-10"
+  },
+  {
+   "code": "6522990",
+   "figId": "cmf71048-11"
+  },
+  {
+   "code": "6522675",
+   "figId": "cmf71048-11"
+  },
+  {
+   "code": "6523002",
+   "figId": "cmf71048-11"
+  },
+  {
+   "code": "6522984",
+   "figId": "cmf71048-12"
+  },
+  {
+   "code": "6522669",
+   "figId": "cmf71048-12"
+  },
+  {
+   "code": "6522996",
+   "figId": "cmf71048-12"
+  },
+  {
+   "code": "6584394",
+   "figId": "cmf71051-01"
+  },
+  {
+   "code": "6584381",
+   "figId": "cmf71051-01"
+  },
+  {
+   "code": "6576503",
+   "figId": "cmf71051-01"
+  },
+  {
+   "code": "6584395",
+   "figId": "cmf71051-02"
+  },
+  {
+   "code": "6584382",
+   "figId": "cmf71051-02"
+  },
+  {
+   "code": "6576504",
+   "figId": "cmf71051-02"
+  },
+  {
+   "code": "6584392",
+   "figId": "cmf71051-03"
+  },
+  {
+   "code": "6576501",
+   "figId": "cmf71051-03"
+  },
+  {
+   "code": "6584379",
+   "figId": "cmf71051-03"
+  },
+  {
+   "code": "6584398",
+   "figId": "cmf71051-04"
+  },
+  {
+   "code": "6576507",
+   "figId": "cmf71051-04"
+  },
+  {
+   "code": "6584385",
+   "figId": "cmf71051-04"
+  },
+  {
+   "code": "6584390",
+   "figId": "cmf71051-05"
+  },
+  {
+   "code": "6576499",
+   "figId": "cmf71051-05"
+  },
+  {
+   "code": "6584377",
+   "figId": "cmf71051-05"
+  },
+  {
+   "code": "6584396",
+   "figId": "cmf71051-06"
+  },
+  {
+   "code": "6576505",
+   "figId": "cmf71051-06"
+  },
+  {
+   "code": "6584383",
+   "figId": "cmf71051-06"
+  },
+  {
+   "code": "6584391",
+   "figId": "cmf71051-07"
+  },
+  {
+   "code": "6576500",
+   "figId": "cmf71051-07"
+  },
+  {
+   "code": "6584378",
+   "figId": "cmf71051-07"
+  },
+  {
+   "code": "6584389",
+   "figId": "cmf71051-08"
+  },
+  {
+   "code": "6576498",
+   "figId": "cmf71051-08"
+  },
+  {
+   "code": "6584376",
+   "figId": "cmf71051-08"
+  },
+  {
+   "code": "6584397",
+   "figId": "cmf71051-09"
+  },
+  {
+   "code": "6576506",
+   "figId": "cmf71051-09"
+  },
+  {
+   "code": "6584384",
+   "figId": "cmf71051-09"
+  },
+  {
+   "code": "6584393",
+   "figId": "cmf71051-10"
+  },
+  {
+   "code": "6576502",
+   "figId": "cmf71051-10"
+  },
+  {
+   "code": "6584380",
+   "figId": "cmf71051-10"
+  },
+  {
+   "code": "6584388",
+   "figId": "cmf71051-11"
+  },
+  {
+   "code": "6576497",
+   "figId": "cmf71051-11"
+  },
+  {
+   "code": "6584375",
+   "figId": "cmf71051-11"
+  },
+  {
+   "code": "6584387",
+   "figId": "cmf71051-12"
+  },
+  {
+   "code": "6576496",
+   "figId": "cmf71051-12"
+  },
+  {
+   "code": "6584374",
+   "figId": "cmf71051-12"
+  },
+  {
    "code": "6603320",
    "figId": "cmf71052-09"
   },
@@ -7336,7 +8096,7 @@
    "figId": "cmf71052-09"
   },
   {
-   "code": "6685259",
+   "code": "6605259",
    "figId": "cmf71052-09"
   },
   {
@@ -7348,11 +8108,19 @@
    "figId": "cmf71052-02"
   },
   {
-   "code": "6603322",
+   "code": "6605260",
    "figId": "cmf71052-02"
   },
   {
+   "code": "6603322",
+   "figId": "cmf71052-08"
+  },
+  {
    "code": "6605248",
+   "figId": "cmf71052-08"
+  },
+  {
+   "code": "6605261",
    "figId": "cmf71052-08"
   },
   {
@@ -7364,7 +8132,7 @@
    "figId": "cmf71052-12"
   },
   {
-   "code": "6685265",
+   "code": "6605265",
    "figId": "cmf71052-12"
   },
   {
@@ -7376,7 +8144,7 @@
    "figId": "cmf71052-04"
   },
   {
-   "code": "6685267",
+   "code": "6605267",
    "figId": "cmf71052-04"
   },
   {
@@ -7388,6 +8156,10 @@
    "figId": "cmf71052-01"
   },
   {
+   "code": "6605270",
+   "figId": "cmf71052-01"
+  },
+  {
    "code": "6603323",
    "figId": "cmf71052-07"
   },
@@ -7396,7 +8168,7 @@
    "figId": "cmf71052-07"
   },
   {
-   "code": "6685262",
+   "code": "6605262",
    "figId": "cmf71052-07"
   },
   {
@@ -7408,7 +8180,7 @@
    "figId": "cmf71052-05"
   },
   {
-   "code": "6685263",
+   "code": "6605263",
    "figId": "cmf71052-05"
   },
   {
@@ -7420,7 +8192,7 @@
    "figId": "cmf71052-03"
   },
   {
-   "code": "6685264",
+   "code": "6605264",
    "figId": "cmf71052-03"
   },
   {
@@ -7432,7 +8204,7 @@
    "figId": "cmf71052-11"
   },
   {
-   "code": "6685266",
+   "code": "6605266",
    "figId": "cmf71052-11"
   },
   {
@@ -7444,7 +8216,7 @@
    "figId": "cmf71052-10"
   },
   {
-   "code": "6685268",
+   "code": "6605268",
    "figId": "cmf71052-10"
   },
   {
@@ -7456,16 +8228,344 @@
    "figId": "cmf71052-06"
   },
   {
-   "code": "6685269",
+   "code": "6605269",
    "figId": "cmf71052-06"
   },
   {
-   "code": "6605260",
-   "figId": "cmf71052-02"
+   "code": "6634900",
+   "figId": "cmf71053-05"
   },
   {
-   "code": "6605270",
-   "figId": "cmf71052-01"
+   "code": "6627605",
+   "figId": "cmf71053-05"
+  },
+  {
+   "code": "6634879",
+   "figId": "cmf71053-05"
+  },
+  {
+   "code": "6634901",
+   "figId": "cmf71053-04"
+  },
+  {
+   "code": "6627606",
+   "figId": "cmf71053-04"
+  },
+  {
+   "code": "6634880",
+   "figId": "cmf71053-04"
+  },
+  {
+   "code": "6634902",
+   "figId": "cmf71053-06"
+  },
+  {
+   "code": "6627607",
+   "figId": "cmf71053-06"
+  },
+  {
+   "code": "6634881",
+   "figId": "cmf71053-06"
+  },
+  {
+   "code": "6634903",
+   "figId": "cmf71053-01"
+  },
+  {
+   "code": "6627608",
+   "figId": "cmf71053-01"
+  },
+  {
+   "code": "6634882",
+   "figId": "cmf71053-01"
+  },
+  {
+   "code": "6634904",
+   "figId": "cmf71053-09"
+  },
+  {
+   "code": "6627609",
+   "figId": "cmf71053-09"
+  },
+  {
+   "code": "6634883",
+   "figId": "cmf71053-09"
+  },
+  {
+   "code": "6634905",
+   "figId": "cmf71053-02"
+  },
+  {
+   "code": "6627610",
+   "figId": "cmf71053-02"
+  },
+  {
+   "code": "6634884",
+   "figId": "cmf71053-02"
+  },
+  {
+   "code": "6634906",
+   "figId": "cmf71053-03"
+  },
+  {
+   "code": "6627611",
+   "figId": "cmf71053-03"
+  },
+  {
+   "code": "6634885",
+   "figId": "cmf71053-03"
+  },
+  {
+   "code": "6634907",
+   "figId": "cmf71053-07"
+  },
+  {
+   "code": "6627612",
+   "figId": "cmf71053-07"
+  },
+  {
+   "code": "6634886",
+   "figId": "cmf71053-07"
+  },
+  {
+   "code": "6634908",
+   "figId": "cmf71053-10"
+  },
+  {
+   "code": "6627613",
+   "figId": "cmf71053-10"
+  },
+  {
+   "code": "6634887",
+   "figId": "cmf71053-10"
+  },
+  {
+   "code": "6634909",
+   "figId": "cmf71053-11"
+  },
+  {
+   "code": "6627614",
+   "figId": "cmf71053-11"
+  },
+  {
+   "code": "6634888",
+   "figId": "cmf71053-11"
+  },
+  {
+   "code": "6634910",
+   "figId": "cmf71053-08"
+  },
+  {
+   "code": "6627615",
+   "figId": "cmf71053-08"
+  },
+  {
+   "code": "6634889",
+   "figId": "cmf71053-08"
+  },
+  {
+   "code": "6634911",
+   "figId": "cmf71053-12"
+  },
+  {
+   "code": "6627616",
+   "figId": "cmf71053-12"
+  },
+  {
+   "code": "6634890",
+   "figId": "cmf71053-12"
+  },
+  {
+   "code": "6615990",
+   "figId": "cmf71050-01"
+  },
+  {
+   "code": "6568959",
+   "figId": "cmf71050-01"
+  },
+  {
+   "code": "6568947",
+   "figId": "cmf71050-01"
+  },
+  {
+   "code": "6564838",
+   "figId": "cmf71050-01"
+  },
+  {
+   "code": "6615995",
+   "figId": "cmf71050-02"
+  },
+  {
+   "code": "6568964",
+   "figId": "cmf71050-02"
+  },
+  {
+   "code": "6568952",
+   "figId": "cmf71050-02"
+  },
+  {
+   "code": "6564843",
+   "figId": "cmf71050-02"
+  },
+  {
+   "code": "6615994",
+   "figId": "cmf71050-03"
+  },
+  {
+   "code": "6568963",
+   "figId": "cmf71050-03"
+  },
+  {
+   "code": "6568951",
+   "figId": "cmf71050-03"
+  },
+  {
+   "code": "6564842",
+   "figId": "cmf71050-03"
+  },
+  {
+   "code": "6615993",
+   "figId": "cmf71050-04"
+  },
+  {
+   "code": "6568962",
+   "figId": "cmf71050-04"
+  },
+  {
+   "code": "6568950",
+   "figId": "cmf71050-04"
+  },
+  {
+   "code": "6564841",
+   "figId": "cmf71050-04"
+  },
+  {
+   "code": "6615991",
+   "figId": "cmf71050-05"
+  },
+  {
+   "code": "6568960",
+   "figId": "cmf71050-05"
+  },
+  {
+   "code": "6568948",
+   "figId": "cmf71050-05"
+  },
+  {
+   "code": "6564839",
+   "figId": "cmf71050-05"
+  },
+  {
+   "code": "6615996",
+   "figId": "cmf71050-06"
+  },
+  {
+   "code": "6568965",
+   "figId": "cmf71050-06"
+  },
+  {
+   "code": "6568953",
+   "figId": "cmf71050-06"
+  },
+  {
+   "code": "6564844",
+   "figId": "cmf71050-06"
+  },
+  {
+   "code": "6615999",
+   "figId": "cmf71050-07"
+  },
+  {
+   "code": "6568968",
+   "figId": "cmf71050-07"
+  },
+  {
+   "code": "6568956",
+   "figId": "cmf71050-07"
+  },
+  {
+   "code": "6564847",
+   "figId": "cmf71050-07"
+  },
+  {
+   "code": "6615992",
+   "figId": "cmf71050-08"
+  },
+  {
+   "code": "6568961",
+   "figId": "cmf71050-08"
+  },
+  {
+   "code": "6568949",
+   "figId": "cmf71050-08"
+  },
+  {
+   "code": "6564840",
+   "figId": "cmf71050-08"
+  },
+  {
+   "code": "6615998",
+   "figId": "cmf71050-09"
+  },
+  {
+   "code": "6568967",
+   "figId": "cmf71050-09"
+  },
+  {
+   "code": "6568955",
+   "figId": "cmf71050-09"
+  },
+  {
+   "code": "6564846",
+   "figId": "cmf71050-09"
+  },
+  {
+   "code": "6615997",
+   "figId": "cmf71050-10"
+  },
+  {
+   "code": "6568966",
+   "figId": "cmf71050-10"
+  },
+  {
+   "code": "6568954",
+   "figId": "cmf71050-10"
+  },
+  {
+   "code": "6564845",
+   "figId": "cmf71050-10"
+  },
+  {
+   "code": "6616000",
+   "figId": "cmf71050-11"
+  },
+  {
+   "code": "6568969",
+   "figId": "cmf71050-11"
+  },
+  {
+   "code": "6568957",
+   "figId": "cmf71050-11"
+  },
+  {
+   "code": "6564848",
+   "figId": "cmf71050-11"
+  },
+  {
+   "code": "6616001",
+   "figId": "cmf71050-12"
+  },
+  {
+   "code": "6568970",
+   "figId": "cmf71050-12"
+  },
+  {
+   "code": "6568958",
+   "figId": "cmf71050-12"
+  },
+  {
+   "code": "6564849",
+   "figId": "cmf71050-12"
   }
  ]
 }
